@@ -2,7 +2,7 @@
 archetype = "chapter"
 title = "Basics"
 weight = 2
-draft = true
+draft = false
 +++
 
-Lorem Ipsum.
+Downloads, requirements, installation, etc...

@@ -1,0 +1,1 @@
+hugo && npx wrangler pages publish public

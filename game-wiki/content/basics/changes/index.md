@@ -1,7 +1,8 @@
 +++
 archetype = "chapter"
-title = "Changes"
+title = "Patch Notes"
 weight = 4
+draft = false
 +++
 
-Lorem Ipsum.
+04/05/2023: Docs - Initial commit
