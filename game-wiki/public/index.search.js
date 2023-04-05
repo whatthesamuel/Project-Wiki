@@ -21,7 +21,7 @@ var relearn_search_index = [
     "uri": "/basics/index.html"
   },
   {
-    "content": "You can download the zip files here.\nExtract the contents Locate the executable Play ",
+    "content": "You can download the zip files on https://dl.whatthesamuel.com.\nExtract the contents Locate the executable Play ",
     "description": "",
     "tags": null,
     "title": "Installation",
