@@ -88,3 +88,15 @@ home = [ "HTML", "RSS", "SEARCH"]
   # For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
   externalLinkTarget = "_blank"
 
+# English is the default language
+defaultContentLanguage = "en"
+
+[Languages]
+[Languages.en]
+weight = 1
+languageName = "English"
+
+[Languages.kr]
+title = "프로젝트 문서"
+weight = 2
+languageName = "한국어"

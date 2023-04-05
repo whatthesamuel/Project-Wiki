@@ -21,7 +21,14 @@ var relearn_search_index = [
     "uri": "/basics/requirements/index.html"
   },
   {
-    "content": "You can download the zip files on https://dl.whatthesamuel.com.\nExtract the contents Locate the executable Play Optional Report any bugs / Request features ",
+    "content": "Email: alex01763@gmail.com Homepage: whatthesamuel.com\n",
+    "description": "",
+    "tags": null,
+    "title": "Contacts",
+    "uri": "/contacts/index.html"
+  },
+  {
+    "content": "You can download the zip files on https://dl.whatthesamuel.com(Important! The email security code is a Cloudflare feature. I don’t collect any data).\nExtract the contents Locate the executable Play Optional Report any bugs / Request features ",
     "description": "",
     "tags": null,
     "title": "Installation",

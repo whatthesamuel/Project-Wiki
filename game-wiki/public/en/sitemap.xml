@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://docs.whatthesamuel.com/basics/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whatthesamuel.com/basics/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://docs.whatthesamuel.com/basics/index.html" />
+    <xhtml:link rel="alternate" hreflang="kr" href="https://docs.whatthesamuel.com/kr/basics/index.html" />
+  </url>
+  <url>
+    <loc>https://docs.whatthesamuel.com/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whatthesamuel.com/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://docs.whatthesamuel.com/index.html" />
+    <xhtml:link rel="alternate" hreflang="kr" href="https://docs.whatthesamuel.com/kr/index.html" />
+  </url>
+  <url>
+    <loc>https://docs.whatthesamuel.com/basics/requirements/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whatthesamuel.com/basics/requirements/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://docs.whatthesamuel.com/basics/requirements/index.html" />
+    <xhtml:link rel="alternate" hreflang="kr" href="https://docs.whatthesamuel.com/kr/basics/requirements/index.html" />
+  </url>
+  <url>
+    <loc>https://docs.whatthesamuel.com/contacts/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whatthesamuel.com/contacts/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://docs.whatthesamuel.com/contacts/index.html" />
+    <xhtml:link rel="alternate" hreflang="kr" href="https://docs.whatthesamuel.com/kr/contacts/index.html" />
+  </url>
+  <url>
+    <loc>https://docs.whatthesamuel.com/basics/installation/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whatthesamuel.com/basics/installation/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://docs.whatthesamuel.com/basics/installation/index.html" />
+    <xhtml:link rel="alternate" hreflang="kr" href="https://docs.whatthesamuel.com/kr/basics/installation/index.html" />
+  </url>
+  <url>
+    <loc>https://docs.whatthesamuel.com/basics/configuration/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whatthesamuel.com/basics/configuration/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://docs.whatthesamuel.com/basics/configuration/index.html" />
+    <xhtml:link rel="alternate" hreflang="kr" href="https://docs.whatthesamuel.com/kr/basics/configuration/index.html" />
+  </url>
+  <url>
+    <loc>https://docs.whatthesamuel.com/basics/changes/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whatthesamuel.com/basics/changes/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://docs.whatthesamuel.com/basics/changes/index.html" />
+    <xhtml:link rel="alternate" hreflang="kr" href="https://docs.whatthesamuel.com/kr/basics/changes/index.html" />
+  </url>
+  <url>
+    <loc>https://docs.whatthesamuel.com/categories/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whatthesamuel.com/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://docs.whatthesamuel.com/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="kr" href="https://docs.whatthesamuel.com/kr/categories/index.html" />
+  </url>
+  <url>
+    <loc>https://docs.whatthesamuel.com/tags/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whatthesamuel.com/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://docs.whatthesamuel.com/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="kr" href="https://docs.whatthesamuel.com/kr/tags/index.html" />
+  </url>
+</urlset>
