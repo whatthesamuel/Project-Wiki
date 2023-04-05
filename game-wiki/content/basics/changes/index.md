@@ -1,5 +1,4 @@
 +++
-archetype = "chapter"
 title = "Patch Notes"
 weight = 4
 draft = false

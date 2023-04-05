@@ -1,5 +1,4 @@
 +++
-archetype = "chapter"
 title = "Configuration"
 weight = 3
 draft = false

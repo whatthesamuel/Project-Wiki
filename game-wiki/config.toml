@@ -1,6 +1,6 @@
 baseURL = 'https://docs.whatthesamuel.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Project Documentations'
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-relearn"

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Basics on My New Hugo Site</title>
+    <title>Basics on Project Documentations</title>
     <link>https://docs.whatthesamuel.com/basics/index.html</link>
-    <description>Recent content in Basics on My New Hugo Site</description>
+    <description>Recent content in Basics on Project Documentations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://docs.whatthesamuel.com/basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -16,7 +16,8 @@ Recommended specs: TBD
 Tested devices:
 CPU: Ryzen 5600
 GPU: RTX 3060ti
-RAM: 32GB</description>
+RAM: 32GB
+Feel free to contact me at alex01763@gmail.com with your specs and fps so that I can improve this page.</description>
     </item>
     <item>
       <title>Installation</title>
@@ -24,7 +25,7 @@ RAM: 32GB</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://docs.whatthesamuel.com/basics/installation/index.html</guid>
       <description>You can download the zip files on https://dl.whatthesamuel.com.
-Extract the contents Locate the executable Play </description>
+Extract the contents Locate the executable Play Optional Report any bugs / Request features </description>
     </item>
     <item>
       <title>Configuration</title>

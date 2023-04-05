@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Basics"
-weight = 2
+weight = 1
 draft = false
 +++
 

@@ -1,1 +1,2 @@
-hugo && npx wrangler pages publish public
+# hugo && npx wrangler pages publish public
+npx wrangler pages publish public

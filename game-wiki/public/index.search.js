@@ -1,19 +1,5 @@
 var relearn_search_index = [
   {
-    "content": "This is a documentation for my graduation project game Things will be added over time.\n",
-    "description": "",
-    "tags": null,
-    "title": "Project documentation",
-    "uri": "/_index_en/index.html"
-  },
-  {
-    "content": " Minimun requirements: Untested\nRecommended specs: TBD\nTested devices:\nCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\n",
-    "description": "",
-    "tags": null,
-    "title": "Requirements",
-    "uri": "/basics/requirements/index.html"
-  },
-  {
     "content": "Downloads, requirements, installation, etc…\n",
     "description": "",
     "tags": null,
@@ -21,7 +7,21 @@ var relearn_search_index = [
     "uri": "/basics/index.html"
   },
   {
-    "content": "You can download the zip files on https://dl.whatthesamuel.com.\nExtract the contents Locate the executable Play ",
+    "content": "This is a documentation for my graduation project game Things will be added over time.\nPlease report any bugs/feature requests to alex01763@gmail.com\n",
+    "description": "",
+    "tags": null,
+    "title": "Project documentation",
+    "uri": "/index.html"
+  },
+  {
+    "content": " Minimun requirements: Untested\nRecommended specs: TBD\nTested devices:\nCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\nFeel free to contact me at alex01763@gmail.com with your specs and fps so that I can improve this page.\n",
+    "description": "",
+    "tags": null,
+    "title": "Requirements",
+    "uri": "/basics/requirements/index.html"
+  },
+  {
+    "content": "You can download the zip files on https://dl.whatthesamuel.com.\nExtract the contents Locate the executable Play Optional Report any bugs / Request features ",
     "description": "",
     "tags": null,
     "title": "Installation",
@@ -47,13 +47,6 @@ var relearn_search_index = [
     "tags": null,
     "title": "Categories",
     "uri": "/categories/index.html"
-  },
-  {
-    "content": "",
-    "description": "",
-    "tags": null,
-    "title": "My New Hugo Site",
-    "uri": "/index.html"
   },
   {
     "content": "",
