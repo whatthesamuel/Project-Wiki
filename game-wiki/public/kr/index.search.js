@@ -7,7 +7,7 @@ var relearn_search_index = [
     "uri": "/kr/basics/index.html"
   },
   {
-    "content": " 최소 사양: Untested\n최적 사양: TBD\n확인된 사양:\nCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\n실행해보시고 alex01763@gmail.com로 사양과 fps를 보내주시면 감사하겠습니다.\n",
+    "content": " 최소 사양: Untested\n최적 사양: TBD\n확인된 사양:\nCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\nFPS: 120\nCPU: i5 4590\nGPU: intel HD graphics 4600\nRAM: 8GB\nFPS: Unplayable\n실행해보시고 alex01763@gmail.com로 사양과 fps를 보내주시면 감사하겠습니다.\n",
     "description": "",
     "tags": null,
     "title": "Requirements",
@@ -21,7 +21,7 @@ var relearn_search_index = [
     "uri": "/kr/index.html"
   },
   {
-    "content": "이메일: alex01763@gmail.com 홈페이지: whatthesamuel.com\n",
+    "content": "이메일: alex01763@gmail.com 홈페이지: whatthesamuel.com 후원: ",
     "description": "",
     "tags": null,
     "title": "Contacts",

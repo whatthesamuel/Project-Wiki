@@ -14,14 +14,14 @@ var relearn_search_index = [
     "uri": "/index.html"
   },
   {
-    "content": " Minimun requirements: Untested\nRecommended specs: TBD\nTested devices:\nCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\nFeel free to contact me at alex01763@gmail.com with your specs and fps so that I can improve this page.\n",
+    "content": " Minimun requirements: Untested\nRecommended specs: TBD\nTested devices:\nCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\nCPU: i5 4590\nGPU: intel HD graphics 4600\nRAM: 8GB\nFPS: Unplayable\nFeel free to contact me at alex01763@gmail.com with your specs and fps so that I can improve this page.\n",
     "description": "",
     "tags": null,
     "title": "Requirements",
     "uri": "/basics/requirements/index.html"
   },
   {
-    "content": "Email: alex01763@gmail.com Homepage: whatthesamuel.com\n",
+    "content": "Email: alex01763@gmail.com Homepage: whatthesamuel.com Support: ",
     "description": "",
     "tags": null,
     "title": "Contacts",
