@@ -25,7 +25,8 @@ Feel free to contact me at alex01763@gmail.com with your specs and fps so that I
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://docs.whatthesamuel.com/basics/installation/index.html</guid>
       <description>You can download the zip files on https://dl.whatthesamuel.com(Important! The email security code is a Cloudflare feature. I don&amp;rsquo;t collect any data).
-Extract the contents Locate the executable Play Optional Report any bugs / Request features </description>
+File names:
+Windows_debug_game.zip : game compiled with &amp;lsquo;debug&amp;rsquo; setting in unreal. Steam login Windows_debug_game_accportal.zip : game compiled with &amp;lsquo;debug&amp;rsquo; setting in unreal. Epic login Windows_development.zip : game compiled with &amp;lsquo;development&amp;rsquo; setting in unreal. Steam login Windows_development_accportal.zip : game compiled with &amp;lsquo;development&amp;rsquo; setting in unreal. Epic login Extract the contents Locate the executable Play Optional Report any bugs / Request features </description>
     </item>
     <item>
       <title>Configuration</title>

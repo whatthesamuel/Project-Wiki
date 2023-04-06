@@ -28,7 +28,7 @@ var relearn_search_index = [
     "uri": "/contacts/index.html"
   },
   {
-    "content": "You can download the zip files on https://dl.whatthesamuel.com(Important! The email security code is a Cloudflare feature. I don’t collect any data).\nExtract the contents Locate the executable Play Optional Report any bugs / Request features ",
+    "content": "You can download the zip files on https://dl.whatthesamuel.com(Important! The email security code is a Cloudflare feature. I don’t collect any data).\nFile names:\nWindows_debug_game.zip : game compiled with ‘debug’ setting in unreal. Steam login Windows_debug_game_accportal.zip : game compiled with ‘debug’ setting in unreal. Epic login Windows_development.zip : game compiled with ‘development’ setting in unreal. Steam login Windows_development_accportal.zip : game compiled with ‘development’ setting in unreal. Epic login Extract the contents Locate the executable Play Optional Report any bugs / Request features ",
     "description": "",
     "tags": null,
     "title": "Installation",
