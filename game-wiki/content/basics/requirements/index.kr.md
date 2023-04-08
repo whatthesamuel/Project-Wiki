@@ -1,5 +1,5 @@
 +++
-title = "Requirements"
+title = "사양"
 weight = 1
 draft = false
 +++
@@ -21,9 +21,13 @@ GPU: RTX 3060ti
 RAM: 32GB   
 FPS: 120
     
+CPU: ryzen 6500    
+GPU: rtx 3050    
+FPS: 무리없이 플레이 가능    
+        
 CPU: i5 4590   
 GPU: intel HD graphics 4600   
 RAM: 8GB   
-FPS: Unplayable
+FPS: 플레이 불가능    
     
 실행해보시고 alex01763@gmail.com로 사양과 fps를 보내주시면 감사하겠습니다.

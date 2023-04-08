@@ -1,5 +1,5 @@
 +++
-title = "Configuration"
+title = "설정"
 weight = 3
 draft = false
 +++

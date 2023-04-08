@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "Contacts"
+title = "연락처"
 weight = 2
 +++
 

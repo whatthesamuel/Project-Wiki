@@ -1,5 +1,5 @@
 +++
-title = "Patch Notes"
+title = "패치 노트"
 weight = 4
 draft = false
 +++

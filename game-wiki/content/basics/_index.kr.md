@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "Basics"
+title = "기본"
 weight = 1
 draft = false
 +++

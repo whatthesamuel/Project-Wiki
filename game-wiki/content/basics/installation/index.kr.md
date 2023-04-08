@@ -1,5 +1,5 @@
 +++
-title = "Installation"
+title = "설치"
 weight = 2
 draft = false
 +++

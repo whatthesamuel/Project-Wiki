@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Basics on 프로젝트 문서</title>
+    <title>기본 on 프로젝트 문서</title>
     <link>https://docs.whatthesamuel.com/kr/basics/index.html</link>
-    <description>Recent content in Basics on 프로젝트 문서</description>
+    <description>Recent content in 기본 on 프로젝트 문서</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://docs.whatthesamuel.com/kr/basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Requirements</title>
+      <title>사양</title>
       <link>https://docs.whatthesamuel.com/kr/basics/requirements/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://docs.whatthesamuel.com/kr/basics/requirements/index.html</guid>
@@ -18,14 +18,15 @@ CPU: Ryzen 5600
 GPU: RTX 3060ti
 RAM: 32GB
 FPS: 120
+CPU: ryzen 6500 GPU: rtx 3050 FPS: 무리없이 플레이 가능
 CPU: i5 4590
 GPU: intel HD graphics 4600
 RAM: 8GB
-FPS: Unplayable
+FPS: 플레이 불가능
 실행해보시고 alex01763@gmail.com로 사양과 fps를 보내주시면 감사하겠습니다.</description>
     </item>
     <item>
-      <title>Installation</title>
+      <title>설치</title>
       <link>https://docs.whatthesamuel.com/kr/basics/installation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://docs.whatthesamuel.com/kr/basics/installation/index.html</guid>
@@ -34,14 +35,14 @@ FPS: Unplayable
 Windows_debug_game.zip : 언리얼 &amp;lsquo;debug&amp;rsquo; 설정으로 컴파일. Steam 로그인 Windows_debug_game_accportal.zip : 언리얼 &amp;lsquo;debug&amp;rsquo; 설정으로 컴파일. Epic 로그인 Windows_development.zip : 언리얼 &amp;lsquo;development&amp;rsquo; 설정으로 컴파일. Steam 로그인 Windows_development_accportal.zip : 언리얼 &amp;lsquo;development&amp;rsquo; 설정으로 컴파일. Epic 로그인 압축 풀기 실행 파일 찾기 실행하기 Optional Report any bugs / Request features </description>
     </item>
     <item>
-      <title>Configuration</title>
+      <title>설정</title>
       <link>https://docs.whatthesamuel.com/kr/basics/configuration/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://docs.whatthesamuel.com/kr/basics/configuration/index.html</guid>
       <description>&amp;lsquo;Options&amp;rsquo; 창에서 이것저것 설정해보시면 됩니다.</description>
     </item>
     <item>
-      <title>Patch Notes</title>
+      <title>패치 노트</title>
       <link>https://docs.whatthesamuel.com/kr/basics/changes/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://docs.whatthesamuel.com/kr/basics/changes/index.html</guid>
