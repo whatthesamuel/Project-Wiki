@@ -3,8 +3,10 @@ title = "Installation"
 weight = 2
 draft = false
 +++
-
-You can download the zip files on [https://dl.whatthesamuel.com](https://dl.whatthesamuel.com)(Important! The email security code is a Cloudflare feature. I don't collect any data).
+    
+You need Steam and Epic games store installed and logged in before starting. This will not be required after official release.
+    
+You can download the zip files on [https://dl.whatthesamuel.com](https://dl.whatthesamuel.com)(Important! The email security code is a Cloudflare feature. I don't collect any data).    
 
 File names:
 - Windows_debug_game.zip : game compiled with 'debug' setting in unreal. Steam login

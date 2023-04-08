@@ -29,9 +29,10 @@ FPS: Unplayable</description>
       <link>https://docs.whatthesamuel.com/basics/installation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://docs.whatthesamuel.com/basics/installation/index.html</guid>
-      <description>You can download the zip files on https://dl.whatthesamuel.com(Important! The email security code is a Cloudflare feature. I don&amp;rsquo;t collect any data).
+      <description>You need Steam and Epic games store installed and logged in before starting. This will not be required after official release.
+You can download the zip files on https://dl.whatthesamuel.com(Important! The email security code is a Cloudflare feature. I don&amp;rsquo;t collect any data).
 File names:
-Windows_debug_game.zip : game compiled with &amp;lsquo;debug&amp;rsquo; setting in unreal. Steam login Windows_debug_game_accportal.zip : game compiled with &amp;lsquo;debug&amp;rsquo; setting in unreal. Epic login Windows_development.zip : game compiled with &amp;lsquo;development&amp;rsquo; setting in unreal. Steam login Windows_development_accportal.zip : game compiled with &amp;lsquo;development&amp;rsquo; setting in unreal. Epic login Extract the contents Locate the executable Play Optional Report any bugs / Request features </description>
+Windows_debug_game.zip : game compiled with &amp;lsquo;debug&amp;rsquo; setting in unreal. Steam login Windows_debug_game_accportal.zip : game compiled with &amp;lsquo;debug&amp;rsquo; setting in unreal. Epic login Windows_development.zip : game compiled with &amp;lsquo;development&amp;rsquo; setting in unreal.</description>
     </item>
     <item>
       <title>Configuration</title>

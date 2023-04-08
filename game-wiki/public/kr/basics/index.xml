@@ -30,9 +30,10 @@ FPS: 플레이 불가능</description>
       <link>https://docs.whatthesamuel.com/kr/basics/installation/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://docs.whatthesamuel.com/kr/basics/installation/index.html</guid>
-      <description>압축 파일을 이 링크에서 다운받을 수 있습니다(중요! 이메일 보안 설정은 봇 공격을 막기 위해 Cloudflare에서 제공하는 기능으로 제가 수집하는 개인정보는 없음을 알립니다): https://dl.whatthesamuel.com
+      <description>스팀 계정과 Epic games store가 먼저 설치되고 로그인 되어 있어야 합니다. 이는 정식 출시가 된 이후에는 필요하지 않을 예정입니다.
+압축 파일을 이 링크에서 다운받을 수 있습니다(중요! 이메일 보안 설정은 봇 공격을 막기 위해 Cloudflare에서 제공하는 기능으로 제가 수집하는 개인정보는 없음을 알립니다): https://dl.whatthesamuel.com
 파일 이름:
-Windows_debug_game.zip : 언리얼 &amp;lsquo;debug&amp;rsquo; 설정으로 컴파일. Steam 로그인 Windows_debug_game_accportal.zip : 언리얼 &amp;lsquo;debug&amp;rsquo; 설정으로 컴파일. Epic 로그인 Windows_development.zip : 언리얼 &amp;lsquo;development&amp;rsquo; 설정으로 컴파일. Steam 로그인 Windows_development_accportal.zip : 언리얼 &amp;lsquo;development&amp;rsquo; 설정으로 컴파일. Epic 로그인 압축 풀기 실행 파일 찾기 실행하기 Optional Report any bugs / Request features </description>
+Windows_debug_game.zip : 언리얼 &amp;lsquo;debug&amp;rsquo; 설정으로 컴파일. Steam 로그인 Windows_debug_game_accportal.zip : 언리얼 &amp;lsquo;debug&amp;rsquo; 설정으로 컴파일. Epic 로그인 Windows_development.zip : 언리얼 &amp;lsquo;development&amp;rsquo; 설정으로 컴파일. Steam 로그인 Windows_development_accportal.zip : 언리얼 &amp;lsquo;development&amp;rsquo; 설정으로 컴파일.</description>
     </item>
     <item>
       <title>설정</title>
@@ -46,7 +47,8 @@ Windows_debug_game.zip : 언리얼 &amp;lsquo;debug&amp;rsquo; 설정으로 컴�
       <link>https://docs.whatthesamuel.com/kr/basics/changes/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://docs.whatthesamuel.com/kr/basics/changes/index.html</guid>
-      <description>04/05/2023: 문서 생성</description>
+      <description>04/05/2023: 문서 생성
+04/08/2023: 최소 사양 업데이트 확인된 버그 - 생성된 방에 join 불가</description>
     </item>
   </channel>
 </rss>
