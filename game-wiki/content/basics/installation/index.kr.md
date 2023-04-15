@@ -11,10 +11,10 @@ draft = false
 *날짜 보고 제일 최근에 업데이트 된 파일 받으시는 것을 추천합니다*
     
 파일 이름:
-- Windows_debug_game.zip : 언리얼 'debug' 설정으로 컴파일. Steam 로그인
-- Windows_debug_game_accportal.zip : 언리얼 'debug' 설정으로 컴파일. Epic 로그인
-- Windows_development.zip : 언리얼 'development' 설정으로 컴파일. Steam 로그인
-- Windows_development_accportal.zip : 언리얼 'development' 설정으로 컴파일. Epic 로그인
+- **Windows_debug_game.zip** : 언리얼 'debug' 설정으로 컴파일. Steam 로그인
+- **Windows_debug_game_accportal**.zip : 언리얼 'debug' 설정으로 컴파일. Epic 로그인
+- **Windows_development.zip** : 언리얼 'development' 설정으로 컴파일. Steam 로그인
+- **Windows_development_accportal.zip** : 언리얼 'development' 설정으로 컴파일. Epic 로그인
 
 1. 압축 풀기
 2. 실행 파일 찾기

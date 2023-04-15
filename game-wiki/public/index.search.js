@@ -14,7 +14,7 @@ var relearn_search_index = [
     "uri": "/index.html"
   },
   {
-    "content": " Minimun requirements: Untested\nRecommended specs: TBD\nTested devices:\nCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\nCPU: 6500 GPU: rtx 3050 FPS: Smooth\nCPU: i5 6600 GPU: gtx 960 RAM: 16GB FPS: GPU 성능 부족\nCPU: i5 4590\nGPU: intel HD graphics 4600\nRAM: 8GB\nFPS: Unplayable\n",
+    "content": " Minimun requirements: Untested\nRecommended specs: TBD\nTested devices:\nShow/Close\rCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\nCPU: 6500 GPU: rtx 3050 FPS: Smooth\nCPU: i5 6600 GPU: gtx 960 RAM: 16GB FPS: insufficient GPU vram\nCPU: i5 4590\nGPU: intel HD graphics 4600\nRAM: 8GB\nFPS: Unplayable\nFeel free to contact me at alex01763@gmail.com with your specs and fps so that I can improve this page.\n",
     "description": "",
     "tags": null,
     "title": "Requirements",

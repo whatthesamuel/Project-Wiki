@@ -16,8 +16,7 @@ TBD
 ---
 확인된 사양:
 
-<details>
-  <summary>보이기/숨기기</summary>
+{{< detail-tag "**보이기/숨기기**" >}}
     
 CPU: Ryzen 5600   
 GPU: RTX 3060ti   
@@ -38,5 +37,5 @@ GPU: intel HD graphics 4600
 RAM: 8GB   
 FPS: 플레이 불가능    
     
-</details>
+{{< /detail-tag >}}    
 실행해보시고 alex01763@gmail.com로 사양과 fps를 보내주시면 감사하겠습니다.
