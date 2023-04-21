@@ -18,10 +18,14 @@ Tested devices:
 
 {{< detail-tag "**Show/Close**" >}}
 
+Dev rig:  
+      
 CPU: Ryzen 5600   
 GPU: RTX 3060ti   
 RAM: 32GB   
     
+Test rigs:
+
 CPU: 6500    
 GPU: rtx 3050    
 FPS: Smooth    

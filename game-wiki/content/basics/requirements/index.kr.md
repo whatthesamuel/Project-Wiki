@@ -18,11 +18,15 @@ TBD
 
 {{< detail-tag "**보이기/숨기기**" >}}
     
+개발자 사양:
+
 CPU: Ryzen 5600   
 GPU: RTX 3060ti   
 RAM: 32GB   
 FPS: 120
     
+테스트 사양:
+
 CPU: ryzen 6500    
 GPU: rtx 3050    
 FPS: 무리없이 플레이 가능    

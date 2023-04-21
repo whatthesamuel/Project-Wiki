@@ -14,9 +14,11 @@
       <description>Minimun requirements: Untested
 Recommended specs: TBD
 Tested devices:
-Show/CloseCPU: Ryzen 5600
+Show/CloseDev rig:
+CPU: Ryzen 5600
 GPU: RTX 3060ti
 RAM: 32GB
+Test rigs:
 CPU: 6500 GPU: rtx 3050 FPS: Smooth
 CPU: i5 6600 GPU: gtx 960 RAM: 16GB FPS: insufficient GPU vram
 CPU: i5 4590
@@ -48,7 +50,10 @@ Windows_debug_game.zip : game compiled with &amp;lsquo;debug&amp;rsquo; setting 
       <link>https://docs.whatthesamuel.com/basics/changes/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://docs.whatthesamuel.com/basics/changes/index.html</guid>
-      <description>04/05/2023: Docs - Initial commit</description>
+      <description>04/05/2023: Docs - Initial commit
+04/08/2023: Docs - Updated requirements
+04/09/2023: Update #1 on dev build - &amp;ldquo;should&amp;rdquo; fix EOS networking problem
+04/22/2023: Update #2 on dev build - fixed camera and gun positions, minor fixes and performance improvements</description>
     </item>
   </channel>
 </rss>

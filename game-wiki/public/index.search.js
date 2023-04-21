@@ -14,14 +14,14 @@ var relearn_search_index = [
     "uri": "/index.html"
   },
   {
-    "content": " Minimun requirements: Untested\nRecommended specs: TBD\nTested devices:\nShow/Close\rCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\nCPU: 6500 GPU: rtx 3050 FPS: Smooth\nCPU: i5 6600 GPU: gtx 960 RAM: 16GB FPS: insufficient GPU vram\nCPU: i5 4590\nGPU: intel HD graphics 4600\nRAM: 8GB\nFPS: Unplayable\nFeel free to contact me at alex01763@gmail.com with your specs and fps so that I can improve this page.\n",
+    "content": " Minimun requirements: Untested\nRecommended specs: TBD\nTested devices:\nShow/Close\rDev rig:\nCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\nTest rigs:\nCPU: 6500 GPU: rtx 3050 FPS: Smooth\nCPU: i5 6600 GPU: gtx 960 RAM: 16GB FPS: insufficient GPU vram\nCPU: i5 4590\nGPU: intel HD graphics 4600\nRAM: 8GB\nFPS: Unplayable\nFeel free to contact me at alex01763@gmail.com with your specs and fps so that I can improve this page.\n",
     "description": "",
     "tags": null,
     "title": "Requirements",
     "uri": "/basics/requirements/index.html"
   },
   {
-    "content": "Email: alex01763@gmail.com Homepage: whatthesamuel.com Support: ",
+    "content": "Email: alex01763@gmail.com Homepage: whatthesamuel.com\nlink\n",
     "description": "",
     "tags": null,
     "title": "Contacts",
@@ -42,7 +42,7 @@ var relearn_search_index = [
     "uri": "/basics/configuration/index.html"
   },
   {
-    "content": "04/05/2023: Docs - Initial commit\n",
+    "content": "04/05/2023: Docs - Initial commit\n04/08/2023: Docs - Updated requirements\n04/09/2023: Update #1 on dev build - “should” fix EOS networking problem\n04/22/2023: Update #2 on dev build - fixed camera and gun positions, minor fixes and performance improvements\n",
     "description": "",
     "tags": null,
     "title": "Patch Notes",
