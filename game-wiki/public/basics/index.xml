@@ -5,7 +5,8 @@
     <link>https://docs.whatthesamuel.com/basics/index.html</link>
     <description>Recent content in Basics on Project Documentations</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://docs.whatthesamuel.com/basics/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Apr 2023 06:15:40 +0900</lastBuildDate><atom:link href="https://docs.whatthesamuel.com/basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Requirements</title>
       <link>https://docs.whatthesamuel.com/basics/requirements/index.html</link>
@@ -37,6 +38,16 @@ You can download the zip files on https://dl.whatthesamuel.com(Important! The em
 I recommend you download the latest version by looking at the dates next to the file names
 File names:
 Windows_debug_game.zip : game compiled with &amp;lsquo;debug&amp;rsquo; setting in unreal. Steam login Windows_debug_game_accportal.</description>
+    </item>
+    <item>
+      <title>Instructions</title>
+      <link>https://docs.whatthesamuel.com/basics/instructions/index.html</link>
+      <pubDate>Sat, 22 Apr 2023 06:15:40 +0900</pubDate>
+      <guid>https://docs.whatthesamuel.com/basics/instructions/index.html</guid>
+      <description> How to play
+Controls W, S, A, D to move Space to jump Move mouse to look around Left click to shoot Right click to aim(zoom in) Esc to open menu, etc&amp;hellip; How to exit
+proper exit menu will be implemented later press ` key to open console type exit and press enter How to show FPS counter (for contributing &amp;amp; reporting)
+press ` key to open console type stat fps and press enter FPS counter should appear on right side of screen </description>
     </item>
     <item>
       <title>Configuration</title>

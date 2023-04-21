@@ -28,11 +28,18 @@ var relearn_search_index = [
     "uri": "/contacts/index.html"
   },
   {
-    "content": "You need Steam and Epic games store installed and logged in before starting. This will not be required after official release.\nYou can download the zip files on https://dl.whatthesamuel.com(Important! The email security code is a Cloudflare feature. I don’t collect any data).\nI recommend you download the latest version by looking at the dates next to the file names\nFile names:\nWindows_debug_game.zip : game compiled with ‘debug’ setting in unreal. Steam login Windows_debug_game_accportal.zip : game compiled with ‘debug’ setting in unreal. Epic login Windows_development.zip : game compiled with ‘development’ setting in unreal. Steam login Windows_development_accportal.zip : game compiled with ‘development’ setting in unreal. Epic login Extract the contents Locate the executable Play Optional Report any bugs / Request features ",
+    "content": "You need Steam and Epic games store installed and logged in before starting. This will not be required after official release.\nYou can download the zip files on https://dl.whatthesamuel.com(Important! The email security code is a Cloudflare feature. I don’t collect any data).\nI recommend you download the latest version by looking at the dates next to the file names\nFile names:\nWindows_debug_game.zip : game compiled with ‘debug’ setting in unreal. Steam login Windows_debug_game_accportal.zip : game compiled with ‘debug’ setting in unreal. Epic login Windows_development.zip : game compiled with ‘development’ setting in unreal. Steam login Windows_development_accportal.zip : game compiled with ‘development’ setting in unreal. Epic login Notice when using steam When using steam version, you need both the epic games launcher and steam installed and logged in.\nExtract the contents Locate the executable Play Optional Report any bugs / Request features ",
     "description": "",
     "tags": null,
     "title": "Installation",
     "uri": "/basics/installation/index.html"
+  },
+  {
+    "content": " How to play\nControls W, S, A, D to move Space to jump Move mouse to look around Left click to shoot Right click to aim(zoom in) Esc to open menu, etc… How to exit\nproper exit menu will be implemented later press ` key to open console type exit and press enter How to show FPS counter (for contributing \u0026 reporting)\npress ` key to open console type stat fps and press enter FPS counter should appear on right side of screen ",
+    "description": "",
+    "tags": null,
+    "title": "Instructions",
+    "uri": "/basics/instructions/index.html"
   },
   {
     "content": "Go to ‘Options’ in the main menu and change the settings as you like.\n",

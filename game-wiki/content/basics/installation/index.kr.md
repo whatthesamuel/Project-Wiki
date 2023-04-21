@@ -16,7 +16,9 @@ draft = false
 - **Windows_development.zip** : 언리얼 'development' 설정으로 컴파일. Steam 로그인
 - **Windows_development_accportal.zip** : 언리얼 'development' 설정으로 컴파일. Epic 로그인
 
-### 중요: 스팀 로그인하려면 에픽 게임즈 런처와 스팀 둘 다 필요함
+{{% notice style="primary" title="스팀 사용시 주의사항" icon="skull-crossbones" %}}
+스팀 로그인하려면 에픽 게임즈 런처와 스팀 둘 다 로그인 후 실행중이어야 함
+{{% /notice %}}
 
 1. 압축 풀기
 2. 실행 파일 찾기

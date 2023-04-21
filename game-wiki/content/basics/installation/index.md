@@ -16,6 +16,11 @@ File names:
 - **Windows_development.zip** : game compiled with 'development' setting in unreal. Steam login
 - **Windows_development_accportal.zip** : game compiled with 'development' setting in unreal. Epic login
 
+
+{{% notice style="primary" title="Notice when using steam" icon="user-check" %}}
+When using steam version, you need both the epic games launcher and steam installed and logged in.
+{{% /notice %}}
+
 1. Extract the contents
 2. Locate the executable
 3. Play

@@ -1,6 +1,6 @@
 +++
 title = "설정"
-weight = 3
+weight = 4
 draft = false
 +++
 

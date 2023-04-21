@@ -5,7 +5,8 @@
     <link>https://docs.whatthesamuel.com/kr/basics/index.html</link>
     <description>Recent content in 기본 on 프로젝트 문서</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://docs.whatthesamuel.com/kr/basics/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Apr 2023 06:15:40 +0900</lastBuildDate><atom:link href="https://docs.whatthesamuel.com/kr/basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>사양</title>
       <link>https://docs.whatthesamuel.com/kr/basics/requirements/index.html</link>
@@ -38,6 +39,16 @@ FPS: 플레이 불가능
 날짜 보고 제일 최근에 업데이트 된 파일 받으시는 것을 추천합니다
 파일 이름:
 Windows_debug_game.zip : 언리얼 &amp;lsquo;debug&amp;rsquo; 설정으로 컴파일. Steam 로그인 Windows_debug_game_accportal.zip : 언리얼 &amp;lsquo;debug&amp;rsquo; 설정으로 컴파일. Epic 로그인 Windows_development.</description>
+    </item>
+    <item>
+      <title>설명서</title>
+      <link>https://docs.whatthesamuel.com/kr/basics/instructions/index.html</link>
+      <pubDate>Sat, 22 Apr 2023 06:15:40 +0900</pubDate>
+      <guid>https://docs.whatthesamuel.com/kr/basics/instructions/index.html</guid>
+      <description> 플레이 방법
+조작키 움직임: W, S, A, D 점프: 스페이스바 둘러보기: 마우스 발사: 마우스 좌클릭 조준: 마우스 우클릭 메뉴 열기 등: Esc 게임 끄는 법
+나중에 옵션 메뉴 제대로 추가할 예정 ` 눌러 콘솔창 열기 exit 입력 후 엔터키 FPS 보는법
+` 눌러 콘솔창 열기 stat fps 입력 후 엔터키 우측에 FPS 표시가 뜸 </description>
     </item>
     <item>
       <title>설정</title>
