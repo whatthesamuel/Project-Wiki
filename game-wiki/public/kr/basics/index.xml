@@ -47,7 +47,7 @@ Windows_debug_game.zip : 언리얼 &amp;lsquo;debug&amp;rsquo; 설정으로 컴�
       <guid>https://docs.whatthesamuel.com/kr/basics/instructions/index.html</guid>
       <description> 플레이 방법
 조작키 움직임: W, S, A, D 점프: 스페이스바 둘러보기: 마우스 발사: 마우스 좌클릭 조준: 마우스 우클릭 메뉴 열기 등: Esc 게임 끄는 법
-나중에 옵션 메뉴 제대로 추가할 예정 ` 눌러 콘솔창 열기 exit 입력 후 엔터키 FPS 보는법
+esc키 누르기 -&amp;gt; exit FPS 보는법
 ` 눌러 콘솔창 열기 stat fps 입력 후 엔터키 우측에 FPS 표시가 뜸 </description>
     </item>
     <item>
@@ -65,7 +65,7 @@ Windows_debug_game.zip : 언리얼 &amp;lsquo;debug&amp;rsquo; 설정으로 컴�
       <description>04/05/2023: 문서 생성
 04/08/2023: 최소 사양 업데이트
 04/09/2023: Development build 업데이트 #1 - 네트워킹 문제 이론상 해결
-04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정 및 기타 등등 수정, 성능 향상</description>
+04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정, UI 및 기타 등등 수정, 성능 향상 문서 - 설명 추가</description>
     </item>
   </channel>
 </rss>

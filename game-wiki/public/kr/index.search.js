@@ -35,7 +35,7 @@ var relearn_search_index = [
     "uri": "/kr/contacts/index.html"
   },
   {
-    "content": " 플레이 방법\n조작키 움직임: W, S, A, D 점프: 스페이스바 둘러보기: 마우스 발사: 마우스 좌클릭 조준: 마우스 우클릭 메뉴 열기 등: Esc 게임 끄는 법\n나중에 옵션 메뉴 제대로 추가할 예정 ` 눌러 콘솔창 열기 exit 입력 후 엔터키 FPS 보는법\n` 눌러 콘솔창 열기 stat fps 입력 후 엔터키 우측에 FPS 표시가 뜸 ",
+    "content": " 플레이 방법\n조작키 움직임: W, S, A, D 점프: 스페이스바 둘러보기: 마우스 발사: 마우스 좌클릭 조준: 마우스 우클릭 메뉴 열기 등: Esc 게임 끄는 법\nesc키 누르기 -\u003e exit FPS 보는법\n` 눌러 콘솔창 열기 stat fps 입력 후 엔터키 우측에 FPS 표시가 뜸 ",
     "description": "",
     "tags": null,
     "title": "설명서",
@@ -49,7 +49,7 @@ var relearn_search_index = [
     "uri": "/kr/basics/configuration/index.html"
   },
   {
-    "content": "04/05/2023: 문서 생성\n04/08/2023: 최소 사양 업데이트\n04/09/2023: Development build 업데이트 #1 - 네트워킹 문제 이론상 해결\n04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정 및 기타 등등 수정, 성능 향상\n",
+    "content": "04/05/2023: 문서 생성\n04/08/2023: 최소 사양 업데이트\n04/09/2023: Development build 업데이트 #1 - 네트워킹 문제 이론상 해결\n04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정, UI 및 기타 등등 수정, 성능 향상 문서 - 설명 추가\n",
     "description": "",
     "tags": null,
     "title": "패치 노트",

@@ -10,4 +10,5 @@ draft = false
     
 04/09/2023: Development build 업데이트 #1 - 네트워킹 문제 이론상 해결     
      
-04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정 및 기타 등등 수정, 성능 향상
+04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정, UI 및 기타 등등 수정, 성능 향상     
+문서 - 설명 추가

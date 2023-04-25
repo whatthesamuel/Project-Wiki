@@ -15,10 +15,7 @@ draft= false
      * Esc to open menu, etc...
 
 2. How to exit
-   * proper exit menu will be implemented later
-   * press ``` ` ``` key to open console
-   * type ``` exit ``` and press enter    
-![Image](Images/exit.png)
+   * press ```esc```-> ```exit```
      
 1. How to show FPS counter (for contributing & reporting)
    * press ``` ` ``` key to open console

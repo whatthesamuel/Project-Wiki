@@ -35,7 +35,7 @@ var relearn_search_index = [
     "uri": "/basics/installation/index.html"
   },
   {
-    "content": " How to play\nControls W, S, A, D to move Space to jump Move mouse to look around Left click to shoot Right click to aim(zoom in) Esc to open menu, etc… How to exit\nproper exit menu will be implemented later press ` key to open console type exit and press enter How to show FPS counter (for contributing \u0026 reporting)\npress ` key to open console type stat fps and press enter FPS counter should appear on right side of screen ",
+    "content": " How to play\nControls W, S, A, D to move Space to jump Move mouse to look around Left click to shoot Right click to aim(zoom in) Esc to open menu, etc… How to exit\npress esc-\u003e exit How to show FPS counter (for contributing \u0026 reporting)\npress ` key to open console type stat fps and press enter FPS counter should appear on right side of screen ",
     "description": "",
     "tags": null,
     "title": "Instructions",
@@ -49,7 +49,7 @@ var relearn_search_index = [
     "uri": "/basics/configuration/index.html"
   },
   {
-    "content": "04/05/2023: Docs - Initial commit\n04/08/2023: Docs - Updated requirements\n04/09/2023: Update #1 on dev build - “should” fix EOS networking problem\n04/22/2023: Update #2 on dev build - fixed camera and gun positions, minor fixes and performance improvements\n",
+    "content": "04/05/2023: Docs - Initial commit\n04/08/2023: Docs - Updated requirements\n04/09/2023: Update #1 on dev build - “should” fix EOS networking problem\n04/22/2023: Update #2 on dev build - fixed camera and gun positions, minor fixes and performance improvements Docs - add instructions\n",
     "description": "",
     "tags": null,
     "title": "Patch Notes",
