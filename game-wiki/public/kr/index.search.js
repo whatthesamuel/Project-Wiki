@@ -35,6 +35,13 @@ var relearn_search_index = [
     "uri": "/kr/contacts/index.html"
   },
   {
+    "content": " 지금 EOS와 스팀을 연동하는 부분에 문제가 있어 해결중이니 그동안 이 방법을 써 주시기 바랍니다.\n하마치(또는 비슷한 개인 vpn) 설치\n하마치에서 서버를 열고 연결하기(최대 5명)\nIPv4 주소 복사 cmd 창 열기(윈도우 키 누르고 ‘command’ 검색) 하고 명령어 입력하기: \u003cgame location\u003e \u003cipv4 address\u003e -log (game location 과 ipv4 address는 개인별로 맞춰서 변경하기)\n예시: 컴퓨터 사양에 따라 로딩 속도가 다를 수 있으니 비상식적으로 오래 걸리지 않는 한 조금만 기다려 주시기 바랍니다. 곧 연결됩니다. ",
+    "description": "",
+    "tags": null,
+    "title": "멀티플레이 하는법",
+    "uri": "/kr/basics/how_to_play_multiplayer/index.html"
+  },
+  {
     "content": " 플레이 방법\n조작키 움직임: W, S, A, D 점프: 스페이스바 둘러보기: 마우스 발사: 마우스 좌클릭 조준: 마우스 우클릭 메뉴 열기 등: Esc 게임 끄는 법\nesc키 누르기 -\u003e exit FPS 보는법\n` 눌러 콘솔창 열기 stat fps 입력 후 엔터키 우측에 FPS 표시가 뜸 ",
     "description": "",
     "tags": null,
@@ -49,7 +56,7 @@ var relearn_search_index = [
     "uri": "/kr/basics/configuration/index.html"
   },
   {
-    "content": "04/05/2023: 문서 생성\n04/08/2023: 최소 사양 업데이트\n04/09/2023: Development build 업데이트 #1 - 네트워킹 문제 이론상 해결\n04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정, UI 및 기타 등등 수정, 성능 향상 문서 - 설명 추가\n",
+    "content": "04/05/2023: 문서 생성\n04/08/2023: 최소 사양 업데이트\n04/09/2023: Development build 업데이트 #1 - 네트워킹 문제 이론상 해결\n04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정, UI 및 기타 등등 수정, 성능 향상 문서 - 설명 추가\n05/06/2023: Development build 업데이트 #3 - client UI 버그 수정, 사망 시 ragdoll 추가, 다양한 주요 버그 수정, 애니메이션 변경 문서 - 멀티플레이 설명 추가\n",
     "description": "",
     "tags": null,
     "title": "패치 노트",

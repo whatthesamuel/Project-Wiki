@@ -17,9 +17,13 @@ draft= false
 2. How to exit
    * press ```esc```-> ```exit```
      
-1. How to show FPS counter (for contributing & reporting)
+3. How to show FPS counter (for contributing & reporting)
    * press ``` ` ``` key to open console
    * type ``` stat fps ``` and press enter
 ![Image](Images/fps%20command.png)
    * FPS counter should appear on right side of screen
 ![Image](Images/show%20fps.png)
+
+4. How to play multiplayer
+
+* Read this page: [link]({{< ref "/basics/how_to_play_multiplayer/index.md" >}} "link")

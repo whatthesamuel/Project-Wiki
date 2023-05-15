@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://docs.whatthesamuel.com/kr/basics/index.html</loc>
-    <lastmod>2023-04-22T06:15:40+09:00</lastmod>
+    <lastmod>2023-05-08T01:08:57+09:00</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whatthesamuel.com/basics/index.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://docs.whatthesamuel.com/basics/index.html" />
     <xhtml:link rel="alternate" hreflang="kr" href="https://docs.whatthesamuel.com/kr/basics/index.html" />
   </url>
   <url>
     <loc>https://docs.whatthesamuel.com/kr/index.html</loc>
-    <lastmod>2023-04-22T06:15:40+09:00</lastmod>
+    <lastmod>2023-05-08T01:08:57+09:00</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whatthesamuel.com/index.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://docs.whatthesamuel.com/index.html" />
     <xhtml:link rel="alternate" hreflang="kr" href="https://docs.whatthesamuel.com/kr/index.html" />
@@ -31,6 +31,13 @@
     <xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whatthesamuel.com/contacts/index.html" />
     <xhtml:link rel="alternate" hreflang="en" href="https://docs.whatthesamuel.com/contacts/index.html" />
     <xhtml:link rel="alternate" hreflang="kr" href="https://docs.whatthesamuel.com/kr/contacts/index.html" />
+  </url>
+  <url>
+    <loc>https://docs.whatthesamuel.com/kr/basics/how_to_play_multiplayer/index.html</loc>
+    <lastmod>2023-05-08T01:08:57+09:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://docs.whatthesamuel.com/basics/how_to_play_multiplayer/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://docs.whatthesamuel.com/basics/how_to_play_multiplayer/index.html" />
+    <xhtml:link rel="alternate" hreflang="kr" href="https://docs.whatthesamuel.com/kr/basics/how_to_play_multiplayer/index.html" />
   </url>
   <url>
     <loc>https://docs.whatthesamuel.com/kr/basics/instructions/index.html</loc>

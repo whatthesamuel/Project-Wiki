@@ -6,7 +6,7 @@
     <description>Recent content in Basics on Project Documentations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 06:15:40 +0900</lastBuildDate><atom:link href="https://docs.whatthesamuel.com/basics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2023 01:08:57 +0900</lastBuildDate><atom:link href="https://docs.whatthesamuel.com/basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Requirements</title>
       <link>https://docs.whatthesamuel.com/basics/requirements/index.html</link>
@@ -40,14 +40,24 @@ File names:
 Windows_debug_game.zip : game compiled with &amp;lsquo;debug&amp;rsquo; setting in unreal. Steam login Windows_debug_game_accportal.</description>
     </item>
     <item>
+      <title>Playing multiplayer</title>
+      <link>https://docs.whatthesamuel.com/basics/how_to_play_multiplayer/index.html</link>
+      <pubDate>Mon, 08 May 2023 01:08:57 +0900</pubDate>
+      <guid>https://docs.whatthesamuel.com/basics/how_to_play_multiplayer/index.html</guid>
+      <description>Currently, I&amp;rsquo;m having some issues with EOS working with steam, so meanwhile, here is a temporary workaround.
+Install and set up Hamachi(or similar custom vpns, but Hamachi is easy to use)
+Set up a server in Hamachi and connect to the host(up to 5 people)
+copy the IPv4 address Open the command prompt(press windows key and search for &amp;lsquo;command&amp;rsquo;) and enter the following command: &amp;lt;game location&amp;gt; &amp;lt;ipv4 address&amp;gt; -log (replace the game location and ipv4 address with your appropriate environment)</description>
+    </item>
+    <item>
       <title>Instructions</title>
       <link>https://docs.whatthesamuel.com/basics/instructions/index.html</link>
       <pubDate>Sat, 22 Apr 2023 06:15:40 +0900</pubDate>
       <guid>https://docs.whatthesamuel.com/basics/instructions/index.html</guid>
-      <description> How to play
+      <description>How to play
 Controls W, S, A, D to move Space to jump Move mouse to look around Left click to shoot Right click to aim(zoom in) Esc to open menu, etc&amp;hellip; How to exit
 press esc-&amp;gt; exit How to show FPS counter (for contributing &amp;amp; reporting)
-press ` key to open console type stat fps and press enter FPS counter should appear on right side of screen </description>
+press ` key to open console type stat fps and press enter FPS counter should appear on right side of screen How to play multiplayer</description>
     </item>
     <item>
       <title>Configuration</title>
@@ -64,7 +74,8 @@ press ` key to open console type stat fps and press enter FPS counter should app
       <description>04/05/2023: Docs - Initial commit
 04/08/2023: Docs - Updated requirements
 04/09/2023: Update #1 on dev build - &amp;ldquo;should&amp;rdquo; fix EOS networking problem
-04/22/2023: Update #2 on dev build - fixed camera and gun positions, minor fixes and performance improvements Docs - add instructions</description>
+04/22/2023: Update #2 on dev build - fixed camera and gun positions, minor fixes and performance improvements Docs - add instructions
+05/06/2023: Update #3 on dev build - fixed client UI bugs, added ragdoll on death, much more major bug fixes, changed animations Docs - add multiplayer instructions</description>
     </item>
   </channel>
 </rss>

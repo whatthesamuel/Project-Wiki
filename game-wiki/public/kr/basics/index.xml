@@ -6,7 +6,7 @@
     <description>Recent content in 기본 on 프로젝트 문서</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Apr 2023 06:15:40 +0900</lastBuildDate><atom:link href="https://docs.whatthesamuel.com/kr/basics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 May 2023 01:08:57 +0900</lastBuildDate><atom:link href="https://docs.whatthesamuel.com/kr/basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>사양</title>
       <link>https://docs.whatthesamuel.com/kr/basics/requirements/index.html</link>
@@ -41,6 +41,17 @@ FPS: 플레이 불가능
 Windows_debug_game.zip : 언리얼 &amp;lsquo;debug&amp;rsquo; 설정으로 컴파일. Steam 로그인 Windows_debug_game_accportal.zip : 언리얼 &amp;lsquo;debug&amp;rsquo; 설정으로 컴파일. Epic 로그인 Windows_development.</description>
     </item>
     <item>
+      <title>멀티플레이 하는법</title>
+      <link>https://docs.whatthesamuel.com/kr/basics/how_to_play_multiplayer/index.html</link>
+      <pubDate>Mon, 08 May 2023 01:08:57 +0900</pubDate>
+      <guid>https://docs.whatthesamuel.com/kr/basics/how_to_play_multiplayer/index.html</guid>
+      <description>지금 EOS와 스팀을 연동하는 부분에 문제가 있어 해결중이니 그동안 이 방법을 써 주시기 바랍니다.
+하마치(또는 비슷한 개인 vpn) 설치
+하마치에서 서버를 열고 연결하기(최대 5명)
+IPv4 주소 복사 cmd 창 열기(윈도우 키 누르고 &amp;lsquo;command&amp;rsquo; 검색) 하고 명령어 입력하기: &amp;lt;game location&amp;gt; &amp;lt;ipv4 address&amp;gt; -log (game location 과 ipv4 address는 개인별로 맞춰서 변경하기)
+예시: 컴퓨터 사양에 따라 로딩 속도가 다를 수 있으니 비상식적으로 오래 걸리지 않는 한 조금만 기다려 주시기 바랍니다. 곧 연결됩니다.</description>
+    </item>
+    <item>
       <title>설명서</title>
       <link>https://docs.whatthesamuel.com/kr/basics/instructions/index.html</link>
       <pubDate>Sat, 22 Apr 2023 06:15:40 +0900</pubDate>
@@ -65,7 +76,8 @@ esc키 누르기 -&amp;gt; exit FPS 보는법
       <description>04/05/2023: 문서 생성
 04/08/2023: 최소 사양 업데이트
 04/09/2023: Development build 업데이트 #1 - 네트워킹 문제 이론상 해결
-04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정, UI 및 기타 등등 수정, 성능 향상 문서 - 설명 추가</description>
+04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정, UI 및 기타 등등 수정, 성능 향상 문서 - 설명 추가
+05/06/2023: Development build 업데이트 #3 - client UI 버그 수정, 사망 시 ragdoll 추가, 다양한 주요 버그 수정, 애니메이션 변경 문서 - 멀티플레이 설명 추가</description>
     </item>
   </channel>
 </rss>
