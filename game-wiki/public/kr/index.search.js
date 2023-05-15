@@ -14,7 +14,7 @@ var relearn_search_index = [
     "uri": "/kr/index.html"
   },
   {
-    "content": " 최소 사양: Untested\n최적 사양: TBD\n확인된 사양:\n보이기/숨기기\r개발자 사양:\nCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\nFPS: 120\n테스트 사양:\nCPU: ryzen 6500 GPU: rtx 3050 FPS: 무리없이 플레이 가능\nCPU: i5 6600 GPU: gtx 960 RAM: 16GB FPS: GPU 성능 부족\nCPU: i5 4590\nGPU: intel HD graphics 4600\nRAM: 8GB\nFPS: 플레이 불가능\n실행해보시고 alex01763@gmail.com로 사양과 fps를 보내주시면 감사하겠습니다.\n",
+    "content": " 최소 사양: 테스트 기기가 적지만 이론상 최소 DirectX12 이상 GPU, 2.5 GHz 이상 CPU, 8GB 이상 RAM\n최적 사양: TBD\n확인된 사양:\n보이기/숨기기\r개발자 사양:\nCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\nFPS: 120\n테스트 사양:\nCPU: ryzen 6500 GPU: rtx 3050 FPS: 무리없이 플레이 가능\nCPU: i5 6600 GPU: gtx 960 RAM: 16GB FPS: GPU 성능 부족\nCPU: i5 4590\nGPU: intel HD graphics 4600\nRAM: 8GB\nFPS: 플레이 불가능\n실행해보시고 alex01763@gmail.com로 사양과 fps를 보내주시면 감사하겠습니다.\n",
     "description": "",
     "tags": null,
     "title": "사양",

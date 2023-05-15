@@ -14,7 +14,7 @@ var relearn_search_index = [
     "uri": "/index.html"
   },
   {
-    "content": " Minimun requirements: Untested\nRecommended specs: TBD\nTested devices:\nShow/Close\rDev rig:\nCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\nTest rigs:\nCPU: 6500 GPU: rtx 3050 FPS: Smooth\nCPU: i5 6600 GPU: gtx 960 RAM: 16GB FPS: insufficient GPU vram\nCPU: i5 4590\nGPU: intel HD graphics 4600\nRAM: 8GB\nFPS: Unplayable\nFeel free to contact me at alex01763@gmail.com with your specs and fps so that I can improve this page.\n",
+    "content": " Minimum requirements: Needs more testing but in theory, Quad-core Intel or AMD, 2.5 GHz or faster processor, 8 GB RAM, DirectX 11 or 12 compatible graphics card.\nRecommended specs: TBD\nTested devices:\nShow/Close\rDev rig:\nCPU: Ryzen 5600\nGPU: RTX 3060ti\nRAM: 32GB\nTest rigs:\nCPU: 6500 GPU: rtx 3050 FPS: Smooth\nCPU: i5 6600 GPU: gtx 960 RAM: 16GB FPS: insufficient GPU vram\nCPU: i5 4590\nGPU: intel HD graphics 4600\nRAM: 8GB\nFPS: Unplayable\nFeel free to contact me at alex01763@gmail.com with your specs and fps so that I can improve this page.\n",
     "description": "",
     "tags": null,
     "title": "Requirements",

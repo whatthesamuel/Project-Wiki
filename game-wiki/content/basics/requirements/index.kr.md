@@ -6,7 +6,8 @@ draft = false
 
 ---
 최소 사양:
-Untested
+테스트 기기가 적지만 이론상 최소 DirectX12 이상 GPU, 2.5 GHz 이상 CPU, 8GB 이상 RAM   
+
 
 ---
 

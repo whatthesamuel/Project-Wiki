@@ -5,8 +5,9 @@ draft = false
 +++
 
 ---
-Minimun requirements:
-Untested
+Minimum requirements:
+Needs more testing but in theory, Quad-core Intel or AMD, 2.5 GHz or faster processor, 8 GB RAM, DirectX 11 or 12 compatible graphics card.    
+
 
 ---
 
