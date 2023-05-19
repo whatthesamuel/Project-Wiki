@@ -7,7 +7,7 @@ var relearn_search_index = [
     "uri": "/basics/index.html"
   },
   {
-    "content": "This is a documentation for my graduation project game Things will be added over time.\nPlease report any bugs/feature requests to alex01763@gmail.com\n",
+    "content": "This is a documentation for my graduation project game “Black Money” Things will be added over time.\nPlease report any bugs/feature requests to alex01763@gmail.com\n",
     "description": "",
     "tags": null,
     "title": "Project documentation",

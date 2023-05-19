@@ -1,6 +1,6 @@
 baseURL = 'https://docs.whatthesamuel.com/'
 languageCode = 'en-us'
-title = 'Project Documentations'
+title = 'Black Money'
 
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-relearn"
@@ -21,7 +21,7 @@ home = [ "HTML", "RSS", "SEARCH"]
   # Author of the site, will be used in meta information
   author = "alex01763@gmail.com"
   # Description of the site, will be used in meta information
-  description = "documentation of my grad project"
+  description = "Black Money - made by whatthesamuel"
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = false
   # Disable search function. It will hide search bar

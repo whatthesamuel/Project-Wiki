@@ -5,7 +5,7 @@ weight = 1
 draft = false
 +++
 
-### This is a documentation for my graduation project game
+### This is a documentation for my graduation project game "Black Money"
 
 Things will be added over time.
 
