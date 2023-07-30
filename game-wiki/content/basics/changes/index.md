@@ -15,3 +15,5 @@ Docs - add instructions
      
 05/06/2023: Update #3 on dev build - fixed client UI bugs, added ragdoll on death, much more major bug fixes, changed animations    
 Docs - add multiplayer instructions
+     
+07/29/2023: Update #4 on dev build - fixed some aim animation bugs

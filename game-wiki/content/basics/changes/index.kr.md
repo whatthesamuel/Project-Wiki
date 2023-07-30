@@ -15,3 +15,5 @@ draft = false
      
 05/06/2023: Development build 업데이트 #3 - client UI 버그 수정, 사망 시 ragdoll 추가, 다양한 주요 버그 수정, 애니메이션 변경    
 문서 - 멀티플레이 설명 추가
+     
+07/29/2023: Development build 업데이트 #4 - 조준 애니메이션 버그 수정
