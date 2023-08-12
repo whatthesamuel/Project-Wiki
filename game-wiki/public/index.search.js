@@ -56,7 +56,7 @@ var relearn_search_index = [
     "uri": "/basics/configuration/index.html"
   },
   {
-    "content": "04/05/2023: Docs - Initial commit\n04/08/2023: Docs - Updated requirements\n04/09/2023: Update #1 on dev build - “should” fix EOS networking problem\n04/22/2023: Update #2 on dev build - fixed camera and gun positions, minor fixes and performance improvements Docs - add instructions\n05/06/2023: Update #3 on dev build - fixed client UI bugs, added ragdoll on death, much more major bug fixes, changed animations Docs - add multiplayer instructions\n",
+    "content": "04/05/2023: Docs - Initial commit\n04/08/2023: Docs - Updated requirements\n04/09/2023: Update #1 on dev build - “should” fix EOS networking problem\n04/22/2023: Update #2 on dev build - fixed camera and gun positions, minor fixes and performance improvements Docs - add instructions\n05/06/2023: Update #3 on dev build - fixed client UI bugs, added ragdoll on death, much more major bug fixes, changed animations Docs - add multiplayer instructions\n07/29/2023: Update #4 on dev build - fixed some aim animation bugs\n08/12/2023: Update #5 on dev build - fixed damage sync bug + optimization\n",
     "description": "",
     "tags": null,
     "title": "Patch Notes",

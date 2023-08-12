@@ -56,7 +56,7 @@ var relearn_search_index = [
     "uri": "/kr/basics/configuration/index.html"
   },
   {
-    "content": "04/05/2023: 문서 생성\n04/08/2023: 최소 사양 업데이트\n04/09/2023: Development build 업데이트 #1 - 네트워킹 문제 이론상 해결\n04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정, UI 및 기타 등등 수정, 성능 향상 문서 - 설명 추가\n05/06/2023: Development build 업데이트 #3 - client UI 버그 수정, 사망 시 ragdoll 추가, 다양한 주요 버그 수정, 애니메이션 변경 문서 - 멀티플레이 설명 추가\n",
+    "content": "04/05/2023: 문서 생성\n04/08/2023: 최소 사양 업데이트\n04/09/2023: Development build 업데이트 #1 - 네트워킹 문제 이론상 해결\n04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정, UI 및 기타 등등 수정, 성능 향상 문서 - 설명 추가\n05/06/2023: Development build 업데이트 #3 - client UI 버그 수정, 사망 시 ragdoll 추가, 다양한 주요 버그 수정, 애니메이션 변경 문서 - 멀티플레이 설명 추가\n07/29/2023: Development build 업데이트 #4 - 조준 애니메이션 버그 수정\n08/12/2023: Development build 업데이트 #5 - 피해량 버그 수정 + 최적화\n",
     "description": "",
     "tags": null,
     "title": "패치 노트",

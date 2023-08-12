@@ -5,7 +5,7 @@
     <link>https://docs.whatthesamuel.com/kr/basics/index.html</link>
     <description>Recent content in 기본 on 프로젝트 문서</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>kr</language>
     <lastBuildDate>Mon, 08 May 2023 01:08:57 +0900</lastBuildDate><atom:link href="https://docs.whatthesamuel.com/kr/basics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>사양</title>
@@ -75,7 +75,8 @@ esc키 누르기 -&amp;gt; exit FPS 보는법
 04/08/2023: 최소 사양 업데이트
 04/09/2023: Development build 업데이트 #1 - 네트워킹 문제 이론상 해결
 04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정, UI 및 기타 등등 수정, 성능 향상 문서 - 설명 추가
-05/06/2023: Development build 업데이트 #3 - client UI 버그 수정, 사망 시 ragdoll 추가, 다양한 주요 버그 수정, 애니메이션 변경 문서 - 멀티플레이 설명 추가</description>
+05/06/2023: Development build 업데이트 #3 - client UI 버그 수정, 사망 시 ragdoll 추가, 다양한 주요 버그 수정, 애니메이션 변경 문서 - 멀티플레이 설명 추가
+07/29/2023: Development build 업데이트 #4 - 조준 애니메이션 버그 수정</description>
     </item>
   </channel>
 </rss>
