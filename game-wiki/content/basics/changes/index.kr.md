@@ -17,3 +17,5 @@ draft = false
 문서 - 멀티플레이 설명 추가
      
 07/29/2023: Development build 업데이트 #4 - 조준 애니메이션 버그 수정
+     
+08/12/2023: Development build 업데이트 #5 - 피해량 버그 수정 + 최적화
