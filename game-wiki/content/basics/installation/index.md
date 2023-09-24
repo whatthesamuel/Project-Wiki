@@ -4,7 +4,8 @@ weight = 2
 draft = false
 +++
     
-You need Steam and Epic games store installed and logged in before starting. This will not be required after official release.
+~~You need Steam and Epic games store installed and logged in before starting. This will not be required after official release.~~    
+You need Steam installed and opened.
     
 You can download the zip files on [https://dl.whatthesamuel.com](https://dl.whatthesamuel.com)(Important! The email security code is a Cloudflare feature. I don't collect any data). 
     
@@ -13,7 +14,7 @@ You can download the zip files on [https://dl.whatthesamuel.com](https://dl.what
 File names:
 - **Windows_x64.zip** : test build
 - ~~**Windows_debug_game_accportal.zip** : game compiled with 'debug' setting in unreal. Epic login~~
-- **Windows_development.zip** : development build
+- **Windows_development.zip** : development build, if available
 - ~~**Windows_development_accportal.zip** : game compiled with 'development' setting in unreal. Epic login~~
 
 
@@ -25,3 +26,7 @@ File names:
 2. Locate the executable
 3. Play
 4. *Optional* Report any bugs / Request features
+    
+Known bugs:   
+- Steam multiplayer not working
+- Crosshair not accurate at long range
