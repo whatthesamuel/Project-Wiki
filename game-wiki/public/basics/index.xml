@@ -34,7 +34,7 @@ GPU: intel HD graphics 4600</description>
 You can download the zip files on https://dl.whatthesamuel.com(Important! The email security code is a Cloudflare feature. I don&amp;rsquo;t collect any data).
 I recommend you download the latest version by looking at the dates next to the file names
 File names:
-Windows_debug_game.zip : game compiled with &amp;lsquo;debug&amp;rsquo; setting in unreal. Steam login Windows_debug_game_accportal.</description>
+Windows_x64.zip : test build Windows_debug_game_accportal.zip : game compiled with &amp;lsquo;debug&amp;rsquo; setting in unreal.</description>
     </item>
     <item>
       <title>Playing multiplayer</title>

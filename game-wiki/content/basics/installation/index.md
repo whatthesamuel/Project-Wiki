@@ -11,14 +11,14 @@ You can download the zip files on [https://dl.whatthesamuel.com](https://dl.what
 *I recommend you download the latest version by looking at the dates next to the file names*
     
 File names:
-- **Windows_debug_game.zip** : game compiled with 'debug' setting in unreal. Steam login
-- **Windows_debug_game_accportal.zip** : game compiled with 'debug' setting in unreal. Epic login
-- **Windows_development.zip** : game compiled with 'development' setting in unreal. Steam login
-- **Windows_development_accportal.zip** : game compiled with 'development' setting in unreal. Epic login
+- **Windows_x64.zip** : test build
+- ~~**Windows_debug_game_accportal.zip** : game compiled with 'debug' setting in unreal. Epic login~~
+- **Windows_development.zip** : development build
+- ~~**Windows_development_accportal.zip** : game compiled with 'development' setting in unreal. Epic login~~
 
 
 {{% notice style="primary" title="Notice when using steam" icon="user-check" %}}
-When using steam version, you need both the epic games launcher and steam installed and logged in.
+~~When using steam version, you need both the epic games launcher and steam installed and logged in.~~ Steam must be opened and logged in to use steam multiplayer.
 {{% /notice %}}
 
 1. Extract the contents

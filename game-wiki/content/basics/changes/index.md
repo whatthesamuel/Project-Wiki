@@ -18,4 +18,6 @@ Docs - add multiplayer instructions
      
 07/29/2023: Update #4 on dev build - fixed some aim animation bugs
      
-08/12/2023: Update #5 on dev build - fixed damage sync bug + optimization
+08/12/2023: Update #5 on dev build - fixed damage sync bug + optimization    
+    
+09/15/2023: Update #6 on dev build - new visuals/graphics + ballistics

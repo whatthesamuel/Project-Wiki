@@ -18,4 +18,6 @@ draft = false
      
 07/29/2023: Development build 업데이트 #4 - 조준 애니메이션 버그 수정
      
-08/12/2023: Development build 업데이트 #5 - 피해량 버그 수정 + 최적화
+08/12/2023: Development build 업데이트 #5 - 피해량 버그 수정 + 최적화    
+    
+09/15/2023: Update #6 - 그래픽 업데이트 + 탄도학
