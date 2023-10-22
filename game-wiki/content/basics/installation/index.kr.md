@@ -13,9 +13,9 @@ draft = false
     
 파일 이름:
 - **Windows_x64.zip** : 메인 빌드
-- ~~**Windows_debug_game_accportal**.zip : 언리얼 'debug' 설정으로 컴파일. Epic 로그인~~
+- ~~**Windows_debug_game_accportal**.zip~~
 - **Windows_development.zip** : 테스트 빌드, 없을 수도 있음
-- ~~**Windows_development_accportal.zip** : 언리얼 'development' 설정으로 컴파일. Epic 로그인~~
+- ~~**Windows_development_accportal.zip**~~
 
 {{% notice style="primary" title="스팀 사용시 주의사항" icon="user-check" %}}
 ~~스팀 로그인하려면 에픽 게임즈 런처와 스팀 둘 다 로그인 후 실행중이어야 함~~ 스팀 켜져 있어야 함

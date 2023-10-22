@@ -17,7 +17,7 @@ draft= false
 2. How to exit
    * press ```esc```-> ```exit```
      
-3. How to show FPS counter (for contributing & reporting)
+3. How to show FPS counter (for contributing & reporting) --> Only available on Development builds(check out 'installation' page)
    * press ``` ` ``` key to open console
    * type ``` stat fps ``` and press enter
 ![Image](Images/fps%20command.png)

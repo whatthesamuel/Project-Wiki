@@ -21,7 +21,7 @@ var relearn_search_index = [
     "uri": "/kr/basics/requirements/index.html"
   },
   {
-    "content": "스팀 계정과 Epic games store가 먼저 설치되고 로그인 되어 있어야 합니다. 이는 정식 출시가 된 이후에는 필요하지 않을 예정입니다. 스팀이 설치되고 켜져 있어야 합니다.\n압축 파일을 이 링크에서 다운받을 수 있습니다(중요! 이메일 보안 설정은 봇 공격을 막기 위해 Cloudflare에서 제공하는 기능으로 제가 수집하는 개인정보는 없음을 알립니다): https://dl.whatthesamuel.com\n날짜 보고 제일 최근에 업데이트 된 파일 받으시는 것을 추천합니다\n파일 이름:\nWindows_x64.zip : 메인 빌드 Windows_debug_game_accportal.zip : 언리얼 ‘debug’ 설정으로 컴파일. Epic 로그인 Windows_development.zip : 테스트 빌드, 없을 수도 있음 Windows_development_accportal.zip : 언리얼 ‘development’ 설정으로 컴파일. Epic 로그인 스팀 사용시 주의사항 스팀 로그인하려면 에픽 게임즈 런처와 스팀 둘 다 로그인 후 실행중이어야 함 스팀 켜져 있어야 함\n압축 풀기 실행 파일 찾기 실행하기 선택 사항 버그 제보 / 새 기능 요청하기 버그:\n조준점 안맞음(애니메이션 변경하여 수정할 예정) 스팀 네트워킹 ",
+    "content": "스팀 계정과 Epic games store가 먼저 설치되고 로그인 되어 있어야 합니다. 이는 정식 출시가 된 이후에는 필요하지 않을 예정입니다. 스팀이 설치되고 켜져 있어야 합니다.\n압축 파일을 이 링크에서 다운받을 수 있습니다(중요! 이메일 보안 설정은 봇 공격을 막기 위해 Cloudflare에서 제공하는 기능으로 제가 수집하는 개인정보는 없음을 알립니다): https://dl.whatthesamuel.com\n날짜 보고 제일 최근에 업데이트 된 파일 받으시는 것을 추천합니다\n파일 이름:\nWindows_x64.zip : 메인 빌드 Windows_debug_game_accportal.zip Windows_development.zip : 테스트 빌드, 없을 수도 있음 Windows_development_accportal.zip 스팀 사용시 주의사항 스팀 로그인하려면 에픽 게임즈 런처와 스팀 둘 다 로그인 후 실행중이어야 함 스팀 켜져 있어야 함\n압축 풀기 실행 파일 찾기 실행하기 선택 사항 버그 제보 / 새 기능 요청하기 버그:\n조준점 안맞음(애니메이션 변경하여 수정할 예정) 스팀 네트워킹 ",
     "description": "",
     "tags": null,
     "title": "설치",
@@ -35,14 +35,14 @@ var relearn_search_index = [
     "uri": "/kr/contacts/index.html"
   },
   {
-    "content": " 지금 EOS와 스팀을 연동하는 부분에 문제가 있어 해결중이니 그동안 이 방법을 써 주시기 바랍니다.\n하마치(또는 비슷한 개인 vpn) 설치\n하마치에서 서버를 열고 연결하기(최대 5명)\nIPv4 주소 복사 cmd 창 열기(윈도우 키 누르고 ‘command’ 검색) 하고 명령어 입력하기: \u003cgame location\u003e \u003cipv4 address\u003e -log (game location 과 ipv4 address는 개인별로 맞춰서 변경하기)\n예시: 컴퓨터 사양에 따라 로딩 속도가 다를 수 있으니 비상식적으로 오래 걸리지 않는 한 조금만 기다려 주시기 바랍니다. 곧 연결됩니다. ",
+    "content": "#1: “정상적인” 방법 Notice when playing Multiplayer 스팀 연동이 아직 불안정하여 에픽 게임즈 런처를 같이 설치하는 것을 권장합니다. 멀티플레이를 하기 위해서는 두 개가 같이 로그인되어 있고 실행되고 있어야 합니다.\n스팀과 에픽 게임즈 런처가 둘 다 로그인 되어 있고 실행되고 있는지 확인 게임 실행 후 스팀/에픽 친구창 뜨는지 확인. 또는 에러 메시지 뜨는지 확인. 에러일 경우 버그 제보 권장 문제 없으면 “Host\"를 눌러 서버 호스트, “Join\"을 눌러 게임 참가 #2: 다른 방법 하마치(또는 비슷한 개인 vpn) 설치\n하마치에서 서버를 열고 연결하기(최대 5명)\nIPv4 주소 복사 cmd 창 열기(윈도우 키 누르고 ‘command’ 검색) 하고 명령어 입력하기: \u003cgame location\u003e \u003cipv4 address\u003e -log (game location 과 ipv4 address는 개인별로 맞춰서 변경하기)\n예시: 컴퓨터 사양에 따라 로딩 속도가 다를 수 있으니 비상식적으로 오래 걸리지 않는 한 조금만 기다려 주시기 바랍니다. 곧 연결됩니다. ",
     "description": "",
     "tags": null,
     "title": "멀티플레이 하는법",
     "uri": "/kr/basics/how_to_play_multiplayer/index.html"
   },
   {
-    "content": " 플레이 방법\n조작키 움직임: W, S, A, D 점프: 스페이스바 둘러보기: 마우스 발사: 마우스 좌클릭 조준: 마우스 우클릭 메뉴 열기 등: Esc 게임 끄는 법\nesc키 누르기 -\u003e exit FPS 보는법\n` 눌러 콘솔창 열기 stat fps 입력 후 엔터키 우측에 FPS 표시가 뜸 ",
+    "content": " 플레이 방법\n조작키 움직임: W, S, A, D 점프: 스페이스바 둘러보기: 마우스 발사: 마우스 좌클릭 조준: 마우스 우클릭 메뉴 열기 등: Esc 게임 끄는 법\nesc키 누르기 -\u003e exit FPS 보는법 –\u003e Development 빌드에서만 가능(설치 가이드 참조)\n` 눌러 콘솔창 열기 stat fps 입력 후 엔터키 우측에 FPS 표시가 뜸 ",
     "description": "",
     "tags": null,
     "title": "설명서",

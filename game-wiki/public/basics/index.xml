@@ -34,17 +34,15 @@ GPU: intel HD graphics 4600</description>
 You can download the zip files on https://dl.whatthesamuel.com(Important! The email security code is a Cloudflare feature. I don&amp;rsquo;t collect any data).
 I recommend you download the latest version by looking at the dates next to the file names
 File names:
-Windows_x64.zip : test build Windows_debug_game_accportal.</description>
+Windows_x64.zip : shipping build Windows_debug_game_accportal.</description>
     </item>
     <item>
       <title>Playing multiplayer</title>
       <link>https://docs.whatthesamuel.com/basics/how_to_play_multiplayer/index.html</link>
       <pubDate>Mon, 08 May 2023 01:08:57 +0900</pubDate>
       <guid>https://docs.whatthesamuel.com/basics/how_to_play_multiplayer/index.html</guid>
-      <description>Currently, I&amp;rsquo;m having some issues with EOS working with steam, so meanwhile, here is a temporary workaround.
-Install and set up Hamachi(or similar custom vpns, but Hamachi is easy to use)
-Set up a server in Hamachi and connect to the host(up to 5 people)
-copy the IPv4 address Open the command prompt(press windows key and search for &amp;lsquo;command&amp;rsquo;) and enter the following command: &amp;lt;game location&amp;gt; &amp;lt;ipv4 address&amp;gt; -log (replace the game location and ipv4 address with your appropriate environment)</description>
+      <description>Method 1: The &amp;ldquo;Normal&amp;rdquo; Way Notice when playing Multiplayer Due to the instability of Steam networking implementation, it is reccomended to have Epic Games Launcher installed and logged in at the same time. Both must be opened and logged in to play multiplayer.
+Check if Steam and Epic Games Launcher is both logged in and running Run the game and check if you can access the steam or epic friends menu, if not, you&amp;rsquo;ll see an error message.</description>
     </item>
     <item>
       <title>Instructions</title>
@@ -53,7 +51,7 @@ copy the IPv4 address Open the command prompt(press windows key and search for &
       <guid>https://docs.whatthesamuel.com/basics/instructions/index.html</guid>
       <description>How to play
 Controls W, S, A, D to move Space to jump Move mouse to look around Left click to shoot Right click to aim(zoom in) Esc to open menu, etc&amp;hellip; How to exit
-press esc-&amp;gt; exit How to show FPS counter (for contributing &amp;amp; reporting)
+press esc-&amp;gt; exit How to show FPS counter (for contributing &amp;amp; reporting) &amp;ndash;&amp;gt; Only available on Development builds(check out &amp;lsquo;installation&amp;rsquo; page)
 press ` key to open console type stat fps and press enter FPS counter should appear on right side of screen How to play multiplayer</description>
     </item>
     <item>

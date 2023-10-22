@@ -5,7 +5,18 @@ weight: 3
 draft: false
 ---
     
- Currently, I'm having some issues with EOS working with steam, so meanwhile, here is a temporary workaround.    
+    
+### Method 1: The "Normal" Way
+
+{{% notice style="primary" title="Notice when playing Multiplayer" icon="user-check" %}}
+ Due to the instability of Steam networking implementation, it is reccomended to have Epic Games Launcher installed and logged in at the same time. Both must be opened and logged in to play multiplayer.
+{{% /notice %}}
+
+1. Check if Steam and Epic Games Launcher is both logged in and running
+2. Run the game and check if you can access the steam or epic friends menu, if not, you'll see an error message. Please report the bug if you can.
+3. If all went well, you can either Host or Join a game from the main menu.
+
+### Method 2: The Other Way
     
 1. Install and set up [Hamachi](https://www.vpn.net/)(or similar custom vpns, but Hamachi is easy to use)
 

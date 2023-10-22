@@ -12,18 +12,18 @@
     <link href="https://docs.whatthesamuel.com/basics/how_to_play_multiplayer/index.html" rel="alternate" hreflang="en">
     <link href="https://docs.whatthesamuel.com/kr/basics/how_to_play_multiplayer/index.html" rel="alternate" hreflang="kr">
     <!-- https://github.com/filamentgroup/loadCSS/blob/master/README.md#how-to-use -->
-    <link href="/css/fontawesome-all.min.css?1696881144" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1696881144" rel="stylesheet"></noscript>
-    <link href="/css/nucleus.css?1696881144" rel="stylesheet">
-    <link href="/css/auto-complete.css?1696881144" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1696881144" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar.min.css?1696881144" rel="stylesheet">
-    <link href="/css/fonts.css?1696881144" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1696881144" rel="stylesheet"></noscript>
-    <link href="/css/theme.css?1696881144" rel="stylesheet">
-    <link href="/css/theme-auto.css?1696881144" rel="stylesheet" id="variant-style">
-    <link href="/css/variant.css?1696881144" rel="stylesheet">
-    <link href="/css/print.css?1696881144" rel="stylesheet" media="print">
-    <link href="/css/ie.css?1696881144" rel="stylesheet">
-    <script src="/js/url.js?1696881144"></script>
-    <script src="/js/variant.js?1696881144"></script>
+    <link href="/css/fontawesome-all.min.css?1697988317" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1697988317" rel="stylesheet"></noscript>
+    <link href="/css/nucleus.css?1697988317" rel="stylesheet">
+    <link href="/css/auto-complete.css?1697988317" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1697988317" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar.min.css?1697988317" rel="stylesheet">
+    <link href="/css/fonts.css?1697988317" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1697988317" rel="stylesheet"></noscript>
+    <link href="/css/theme.css?1697988317" rel="stylesheet">
+    <link href="/css/theme-auto.css?1697988317" rel="stylesheet" id="variant-style">
+    <link href="/css/variant.css?1697988317" rel="stylesheet">
+    <link href="/css/print.css?1697988317" rel="stylesheet" media="print">
+    <link href="/css/ie.css?1697988317" rel="stylesheet">
+    <script src="/js/url.js?1697988317"></script>
+    <script src="/js/variant.js?1697988317"></script>
     <script>
       // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
       // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
@@ -52,9 +52,23 @@
             <span id="sidebar-toggle-span">
               <a href="#" id="sidebar-toggle" class="topbar-link" title='Menu (CTRL+ALT+n)'><i class="fas fa-bars fa-fw"></i></a>
             </span>
+            <span id="toc-menu" title='Table of Contents (CTRL+ALT+t)'><i class="fas fa-list-alt fa-fw"></i></span>
             <span class="links">
               멀티플레이 하는법
             </span>
+          </div>
+          <div class="default-animation progress">
+            <div class="toc-wrapper"><nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#1-정상적인-방법">#1: &ldquo;정상적인&rdquo; 방법</a></li>
+        <li><a href="#2-다른-방법">#2: 다른 방법</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+            </div>
           </div>
         </div>
       </nav>
@@ -65,7 +79,20 @@
           <article class="default">
 <h1 id="멀티플레이-하는법">멀티플레이 하는법</h1>
 
-<p> 지금 EOS와 스팀을 연동하는 부분에 문제가 있어 해결중이니 그동안 이 방법을 써 주시기 바랍니다.</p>
+<h3 id="1-정상적인-방법">#1: &ldquo;정상적인&rdquo; 방법</h3>
+
+<div class="box notices cstyle primary">
+  <div class="box-label"><i class="fa-fw fas fa-user-check"></i> Notice when playing Multiplayer</div>
+  <div class="box-content">
+<p>스팀 연동이 아직 불안정하여 에픽 게임즈 런처를 같이 설치하는 것을 권장합니다. 멀티플레이를 하기 위해서는 두 개가 같이 로그인되어 있고 실행되고 있어야 합니다.</p>
+  </div>
+</div>
+<ol>
+<li>스팀과 에픽 게임즈 런처가 둘 다 로그인 되어 있고 실행되고 있는지 확인</li>
+<li>게임 실행 후 스팀/에픽 친구창 뜨는지 확인. 또는 에러 메시지 뜨는지 확인. 에러일 경우 버그 제보 권장</li>
+<li>문제 없으면 &ldquo;Host&quot;를 눌러 서버 호스트, &ldquo;Join&quot;을 눌러 게임 참가</li>
+</ol>
+<h3 id="2-다른-방법">#2: 다른 방법</h3>
 <ol>
 <li>
 <p><a href="https://www.vpn.net/" target="_blank">하마치</a>(또는 비슷한 개인 vpn) 설치</p>
@@ -76,10 +103,10 @@
 <li>
 <p>IPv4 주소 복사 <br>
 
-<a href="#image-25bcff0bcf0c9b21bd96ca22ecb5b5ed" class="lightbox-link">
+<a href="#image-040a6d5875b7cc3d9d91ae28a53a8df2" class="lightbox-link">
 <img src="/kr/basics/how_to_play_multiplayer/images/hamachi.png" alt="image" style="height: auto; width: auto;" loading="lazy">
 </a>
-<a href="javascript:history.back();" class="lightbox" id="image-25bcff0bcf0c9b21bd96ca22ecb5b5ed">
+<a href="javascript:history.back();" class="lightbox" id="image-040a6d5875b7cc3d9d91ae28a53a8df2">
 <img src="/kr/basics/how_to_play_multiplayer/images/hamachi.png" alt="image" class="lightbox-image" loading="lazy">
 </a></p>
 </li>
@@ -90,19 +117,19 @@
 </ol>
 <p>예시:
 
-<a href="#image-83984af6e41fea5143950ddeba919459" class="lightbox-link">
+<a href="#image-efa41857034385439af6fe68062b9b56" class="lightbox-link">
 <img src="/kr/basics/how_to_play_multiplayer/images/cmd.png" alt="image" style="height: auto; width: auto;" loading="lazy">
 </a>
-<a href="javascript:history.back();" class="lightbox" id="image-83984af6e41fea5143950ddeba919459">
+<a href="javascript:history.back();" class="lightbox" id="image-efa41857034385439af6fe68062b9b56">
 <img src="/kr/basics/how_to_play_multiplayer/images/cmd.png" alt="image" class="lightbox-image" loading="lazy">
 </a></p>
 <ol start="5">
 <li>컴퓨터 사양에 따라 로딩 속도가 다를 수 있으니 비상식적으로 오래 걸리지 않는 한 조금만 기다려 주시기 바랍니다. 곧 연결됩니다. <br>
 
-<a href="#image-f87228e2f03ee533b0956a1c39227637" class="lightbox-link">
+<a href="#image-13409955fb201d82167b20d720992418" class="lightbox-link">
 <img src="/kr/basics/how_to_play_multiplayer/images/play.png" alt="image" style="height: auto; width: auto;" loading="lazy">
 </a>
-<a href="javascript:history.back();" class="lightbox" id="image-f87228e2f03ee533b0956a1c39227637">
+<a href="javascript:history.back();" class="lightbox" id="image-13409955fb201d82167b20d720992418">
 <img src="/kr/basics/how_to_play_multiplayer/images/play.png" alt="image" class="lightbox-image" loading="lazy">
 </a></li>
 </ol>
@@ -191,12 +218,12 @@
         <script>
           var contentLangs=['en'];
         </script>
-        <script src="/js/auto-complete.js?1696881144" defer></script>
-        <script src="/js/lunr/lunr.min.js?1696881144" defer></script>
-        <script src="/js/lunr/lunr.stemmer.support.min.js?1696881144" defer></script>
-        <script src="/js/lunr/lunr.multi.min.js?1696881144" defer></script>
-        <script src="/js/lunr/lunr.en.min.js?1696881144" defer></script>
-        <script src="/js/search.js?1696881144" defer></script>
+        <script src="/js/auto-complete.js?1697988317" defer></script>
+        <script src="/js/lunr/lunr.min.js?1697988317" defer></script>
+        <script src="/js/lunr/lunr.stemmer.support.min.js?1697988317" defer></script>
+        <script src="/js/lunr/lunr.multi.min.js?1697988317" defer></script>
+        <script src="/js/lunr/lunr.en.min.js?1697988317" defer></script>
+        <script src="/js/search.js?1697988317" defer></script>
       </div>
       <div id="content-wrapper" class="highlightable">
         <ul class="topics enlarge morespace">
@@ -249,8 +276,8 @@
         </div>
       </div>
     </aside>
-    <script src="/js/clipboard.min.js?1696881144" defer></script>
-    <script src="/js/perfect-scrollbar.min.js?1696881144" defer></script>
+    <script src="/js/clipboard.min.js?1697988317" defer></script>
+    <script src="/js/perfect-scrollbar.min.js?1697988317" defer></script>
     <script>
       function useMathJax( config ){
         if( !Object.assign ){
@@ -280,15 +307,15 @@
       useMathJax( JSON.parse("{}") );
     </script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-    <script src="/js/d3/d3-color.min.js?1696881144" defer></script>
-    <script src="/js/d3/d3-dispatch.min.js?1696881144" defer></script>
-    <script src="/js/d3/d3-drag.min.js?1696881144" defer></script>
-    <script src="/js/d3/d3-ease.min.js?1696881144" defer></script>
-    <script src="/js/d3/d3-interpolate.min.js?1696881144" defer></script>
-    <script src="/js/d3/d3-selection.min.js?1696881144" defer></script>
-    <script src="/js/d3/d3-timer.min.js?1696881144" defer></script>
-    <script src="/js/d3/d3-transition.min.js?1696881144" defer></script>
-    <script src="/js/d3/d3-zoom.min.js?1696881144" defer></script>
+    <script src="/js/d3/d3-color.min.js?1697988317" defer></script>
+    <script src="/js/d3/d3-dispatch.min.js?1697988317" defer></script>
+    <script src="/js/d3/d3-drag.min.js?1697988317" defer></script>
+    <script src="/js/d3/d3-ease.min.js?1697988317" defer></script>
+    <script src="/js/d3/d3-interpolate.min.js?1697988317" defer></script>
+    <script src="/js/d3/d3-selection.min.js?1697988317" defer></script>
+    <script src="/js/d3/d3-timer.min.js?1697988317" defer></script>
+    <script src="/js/d3/d3-transition.min.js?1697988317" defer></script>
+    <script src="/js/d3/d3-zoom.min.js?1697988317" defer></script>
     <script src="https://unpkg.com/mermaid/dist/mermaid.min.js" defer></script>
     <script>
       window.themeUseMermaid = JSON.parse("{ \"theme\": \"default\" }");
@@ -297,6 +324,6 @@
     <script>
       window.themeUseSwagger = JSON.parse("{ \"theme\": \"light\" }");
     </script>
-    <script src="/js/theme.js?1696881144" defer></script>
+    <script src="/js/theme.js?1697988317" defer></script>
   </body>
 </html>

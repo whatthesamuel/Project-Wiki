@@ -17,7 +17,7 @@ draft= false
 2. 게임 끄는 법
    * ```esc```키 누르기 -> ```exit```
      
-1. FPS 보는법
+1. FPS 보는법 --> Development 빌드에서만 가능(설치 가이드 참조)
    * ``` ` ``` 눌러 콘솔창 열기
    * ``` stat fps ``` 입력 후 엔터키
 ![Image](Images/fps%20command.png)
