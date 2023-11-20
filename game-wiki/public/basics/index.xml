@@ -49,10 +49,9 @@ Check if Steam and Epic Games Launcher is both logged in and running Run the gam
       <link>https://docs.whatthesamuel.com/basics/instructions/index.html</link>
       <pubDate>Sat, 22 Apr 2023 06:15:40 +0900</pubDate>
       <guid>https://docs.whatthesamuel.com/basics/instructions/index.html</guid>
-      <description>How to play
-Controls W, S, A, D to move Space to jump Move mouse to look around Left click to shoot Right click to aim(zoom in) Esc to open menu, etc&amp;hellip; How to exit
-press esc-&amp;gt; exit How to show FPS counter (for contributing &amp;amp; reporting) &amp;ndash;&amp;gt; Only available on Development builds(check out &amp;lsquo;installation&amp;rsquo; page)
-press ` key to open console type stat fps and press enter FPS counter should appear on right side of screen How to play multiplayer</description>
+      <description> How to play
+Controls W, S, A, D to move Space to jump left shift to sprint Move mouse to look around Left click to shoot Right click to aim(zoom in) 1, 2 on keyboard(not numpad) to switch weapons R to reload Esc to open menu, etc&amp;hellip; How to exit
+press esc-&amp;gt; exit How to play multiplayer Read this page: link </description>
     </item>
     <item>
       <title>Configuration</title>

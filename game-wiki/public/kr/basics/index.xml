@@ -52,9 +52,9 @@ Windows_x64.zip : 메인 빌드 Windows_debug_game_accportal.zip Windows_develop
       <pubDate>Sat, 22 Apr 2023 06:15:40 +0900</pubDate>
       <guid>https://docs.whatthesamuel.com/kr/basics/instructions/index.html</guid>
       <description> 플레이 방법
-조작키 움직임: W, S, A, D 점프: 스페이스바 둘러보기: 마우스 발사: 마우스 좌클릭 조준: 마우스 우클릭 메뉴 열기 등: Esc 게임 끄는 법
-esc키 누르기 -&amp;gt; exit FPS 보는법 &amp;ndash;&amp;gt; Development 빌드에서만 가능(설치 가이드 참조)
-` 눌러 콘솔창 열기 stat fps 입력 후 엔터키 우측에 FPS 표시가 뜸 </description>
+조작키 움직임: W, S, A, D 달리기: 왼쪽 쉬프트 점프: 스페이스바 둘러보기: 마우스 발사: 마우스 좌클릭 조준: 마우스 우클릭 무기 교체: 키보드 1, 2 (숫자패드 말고) 재장전: R 메뉴 열기 등: Esc 게임 끄는 법
+esc키 누르기 -&amp;gt; exit 멀티플레이 하는 법
+좌측 &amp;ldquo;멀티플레이&amp;rdquo; 탭 참조 </description>
     </item>
     <item>
       <title>설정</title>

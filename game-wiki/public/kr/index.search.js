@@ -42,7 +42,7 @@ var relearn_search_index = [
     "uri": "/kr/basics/how_to_play_multiplayer/index.html"
   },
   {
-    "content": " 플레이 방법\n조작키 움직임: W, S, A, D 점프: 스페이스바 둘러보기: 마우스 발사: 마우스 좌클릭 조준: 마우스 우클릭 메뉴 열기 등: Esc 게임 끄는 법\nesc키 누르기 -\u003e exit FPS 보는법 –\u003e Development 빌드에서만 가능(설치 가이드 참조)\n` 눌러 콘솔창 열기 stat fps 입력 후 엔터키 우측에 FPS 표시가 뜸 ",
+    "content": " 플레이 방법\n조작키 움직임: W, S, A, D 달리기: 왼쪽 쉬프트 점프: 스페이스바 둘러보기: 마우스 발사: 마우스 좌클릭 조준: 마우스 우클릭 무기 교체: 키보드 1, 2 (숫자패드 말고) 재장전: R 메뉴 열기 등: Esc 게임 끄는 법\nesc키 누르기 -\u003e exit 멀티플레이 하는 법\n좌측 “멀티플레이” 탭 참조 ",
     "description": "",
     "tags": null,
     "title": "설명서",

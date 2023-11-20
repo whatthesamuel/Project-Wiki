@@ -42,7 +42,7 @@ var relearn_search_index = [
     "uri": "/basics/how_to_play_multiplayer/index.html"
   },
   {
-    "content": " How to play\nControls W, S, A, D to move Space to jump Move mouse to look around Left click to shoot Right click to aim(zoom in) Esc to open menu, etc… How to exit\npress esc-\u003e exit How to show FPS counter (for contributing \u0026 reporting) –\u003e Only available on Development builds(check out ‘installation’ page)\npress ` key to open console type stat fps and press enter FPS counter should appear on right side of screen How to play multiplayer\nRead this page: link ",
+    "content": " How to play\nControls W, S, A, D to move Space to jump left shift to sprint Move mouse to look around Left click to shoot Right click to aim(zoom in) 1, 2 on keyboard(not numpad) to switch weapons R to reload Esc to open menu, etc… How to exit\npress esc-\u003e exit How to play multiplayer Read this page: link ",
     "description": "",
     "tags": null,
     "title": "Instructions",
@@ -56,7 +56,7 @@ var relearn_search_index = [
     "uri": "/basics/configuration/index.html"
   },
   {
-    "content": "04/05/2023: Docs - Initial commit\n04/08/2023: Docs - Updated requirements\n04/09/2023: Update #1 on dev build - “should” fix EOS networking problem\n04/22/2023: Update #2 on dev build - fixed camera and gun positions, minor fixes and performance improvements Docs - add instructions\n05/06/2023: Update #3 on dev build - fixed client UI bugs, added ragdoll on death, much more major bug fixes, changed animations Docs - add multiplayer instructions\n07/29/2023: Update #4 on dev build - fixed some aim animation bugs\n08/12/2023: Update #5 on dev build - fixed damage sync bug + optimization\n09/15/2023: Update #6 on dev build - new visuals/graphics + ballistics\n",
+    "content": "04/05/2023: Docs - Initial commit\n04/08/2023: Docs - Updated requirements\n04/09/2023: Update #1 on dev build - “should” fix EOS networking problem\n04/22/2023: Update #2 on dev build - fixed camera and gun positions, minor fixes and performance improvements Docs - add instructions\n05/06/2023: Update #3 on dev build - fixed client UI bugs, added ragdoll on death, much more major bug fixes, changed animations Docs - add multiplayer instructions\n07/29/2023: Update #4 on dev build - fixed some aim animation bugs\n08/12/2023: Update #5 on dev build - fixed damage sync bug + optimization\n09/15/2023: Update #6 on dev build - new visuals/graphics + ballistics\n11/21/2023: Update #7 / First alpha release of shipping build - animation fixes, manual reloading, sprinting, map improvements, and more\n",
     "description": "",
     "tags": null,
     "title": "Patch Notes",
