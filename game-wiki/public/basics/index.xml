@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Basics on Black Money</title>
+    <title>Basics on Action Have Consequences</title>
     <link>https://docs.whatthesamuel.com/basics/index.html</link>
-    <description>Recent content in Basics on Black Money</description>
+    <description>Recent content in Basics on Action Have Consequences</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 08 May 2023 01:08:57 +0900</lastBuildDate><atom:link href="https://docs.whatthesamuel.com/basics/index.xml" rel="self" type="application/rss+xml" />
@@ -31,10 +31,9 @@ GPU: intel HD graphics 4600</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://docs.whatthesamuel.com/basics/installation/index.html</guid>
       <description>You need Steam and Epic games store installed and logged in before starting. This will not be required after official release. You need Steam installed and opened.
+In order to get the game more polished, currently the updates are being delayed.
 You can download the zip files on https://dl.whatthesamuel.com(Important! The email security code is a Cloudflare feature. I don&amp;rsquo;t collect any data).
-I recommend you download the latest version by looking at the dates next to the file names
-File names:
-Windows_x64.zip : shipping build Windows_debug_game_accportal.</description>
+I recommend you download the latest version by looking at the dates next to the file names</description>
     </item>
     <item>
       <title>Playing multiplayer</title>

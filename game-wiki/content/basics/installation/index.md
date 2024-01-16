@@ -7,6 +7,8 @@ draft = false
 ~~You need Steam and Epic games store installed and logged in before starting. This will not be required after official release.~~    
 You need Steam installed and opened.
     
+**In order to get the game more polished, currently the updates are being delayed.**
+
 You can download the zip files on [https://dl.whatthesamuel.com](https://dl.whatthesamuel.com)(Important! The email security code is a Cloudflare feature. I don't collect any data). 
     
 *I recommend you download the latest version by looking at the dates next to the file names*

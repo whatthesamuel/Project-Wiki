@@ -5,7 +5,7 @@ weight = 1
 draft = false
 +++
 
-### 졸업작품 게임 "Black Money"의 문서입니다
+### FPS 게임 "Actions have consequences"의 문서입니다
 
 내용은 추후 점점 더 추가할 예정입니다
 

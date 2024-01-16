@@ -5,7 +5,7 @@ weight = 1
 draft = false
 +++
 
-### This is a documentation for my graduation project game "Black Money"
+### This is a documentation for "Actions Have Consequences", an FPS shooter
 
 Things will be added over time.
 

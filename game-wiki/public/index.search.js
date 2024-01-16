@@ -7,7 +7,7 @@ var relearn_search_index = [
     "uri": "/basics/index.html"
   },
   {
-    "content": "This is a documentation for my graduation project game “Black Money” Things will be added over time.\nPlease report any bugs/feature requests to alex01763@gmail.com\n",
+    "content": "This is a documentation for “Actions Have Consequences”, an FPS shooter Things will be added over time.\nPlease report any bugs/feature requests to alex01763@gmail.com\n",
     "description": "",
     "tags": null,
     "title": "Project documentation",
@@ -28,7 +28,7 @@ var relearn_search_index = [
     "uri": "/contacts/index.html"
   },
   {
-    "content": "You need Steam and Epic games store installed and logged in before starting. This will not be required after official release. You need Steam installed and opened.\nYou can download the zip files on https://dl.whatthesamuel.com(Important! The email security code is a Cloudflare feature. I don’t collect any data).\nI recommend you download the latest version by looking at the dates next to the file names\nFile names:\nWindows_x64.zip : shipping build Windows_debug_game_accportal.zip Windows_development.zip : development build, if available Windows_development_accportal.zip Extract the contents Locate the executable Play Optional Report any bugs / Request features Known bugs:\nSteam multiplayer not working Crosshair not accurate at long range ",
+    "content": "You need Steam and Epic games store installed and logged in before starting. This will not be required after official release. You need Steam installed and opened.\nIn order to get the game more polished, currently the updates are being delayed.\nYou can download the zip files on https://dl.whatthesamuel.com(Important! The email security code is a Cloudflare feature. I don’t collect any data).\nI recommend you download the latest version by looking at the dates next to the file names\nFile names:\nWindows_x64.zip : shipping build Windows_debug_game_accportal.zip Windows_development.zip : development build, if available Windows_development_accportal.zip Extract the contents Locate the executable Play Optional Report any bugs / Request features Known bugs:\nSteam multiplayer not working Crosshair not accurate at long range ",
     "description": "",
     "tags": null,
     "title": "Installation",
