@@ -13,7 +13,11 @@ draft = false
      
 *날짜 보고 제일 최근에 업데이트 된 파일 받으시는 것을 추천합니다*
     
-파일 이름:
+파일 이름:    
+    
+- 최신 버전 설치 파일 포함
+    
+구버전:   
 - **Windows_x64.zip** : 메인 빌드
 - ~~**Windows_debug_game_accportal**.zip~~
 - **Windows_development.zip** : 테스트 빌드, 없을 수도 있음

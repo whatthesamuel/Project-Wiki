@@ -21,7 +21,7 @@ var relearn_search_index = [
     "uri": "/kr/basics/requirements/index.html"
   },
   {
-    "content": "스팀 계정과 Epic games store가 먼저 설치되고 로그인 되어 있어야 합니다. 이는 정식 출시가 된 이후에는 필요하지 않을 예정입니다. 스팀이 설치되고 켜져 있어야 합니다.\n현재 완성도를 높이기 위해 업데이트가 지연되고 있으니 양해 부탁드립니다.\n압축 파일을 이 링크에서 다운받을 수 있습니다(중요! 이메일 보안 설정은 봇 공격을 막기 위해 Cloudflare에서 제공하는 기능으로 제가 수집하는 개인정보는 없음을 알립니다): https://dl.whatthesamuel.com\n날짜 보고 제일 최근에 업데이트 된 파일 받으시는 것을 추천합니다\n파일 이름:\nWindows_x64.zip : 메인 빌드 Windows_debug_game_accportal.zip Windows_development.zip : 테스트 빌드, 없을 수도 있음 Windows_development_accportal.zip 스팀 사용시 주의사항 스팀 로그인하려면 에픽 게임즈 런처와 스팀 둘 다 로그인 후 실행중이어야 함 스팀 켜져 있어야 함\n압축 풀기 실행 파일 찾기 실행하기 선택 사항 버그 제보 / 새 기능 요청하기 버그:\n조준점 안맞음(애니메이션 변경하여 수정할 예정) 스팀 네트워킹 ",
+    "content": "스팀 계정과 Epic games store가 먼저 설치되고 로그인 되어 있어야 합니다. 이는 정식 출시가 된 이후에는 필요하지 않을 예정입니다. 스팀이 설치되고 켜져 있어야 합니다.\n현재 완성도를 높이기 위해 업데이트가 지연되고 있으니 양해 부탁드립니다.\n압축 파일을 이 링크에서 다운받을 수 있습니다(중요! 이메일 보안 설정은 봇 공격을 막기 위해 Cloudflare에서 제공하는 기능으로 제가 수집하는 개인정보는 없음을 알립니다): https://dl.whatthesamuel.com\n날짜 보고 제일 최근에 업데이트 된 파일 받으시는 것을 추천합니다\n파일 이름:\n최신 버전 설치 파일 포함 구버전:\nWindows_x64.zip : 메인 빌드 Windows_debug_game_accportal.zip Windows_development.zip : 테스트 빌드, 없을 수도 있음 Windows_development_accportal.zip 스팀 사용시 주의사항 스팀 로그인하려면 에픽 게임즈 런처와 스팀 둘 다 로그인 후 실행중이어야 함 스팀 켜져 있어야 함\n압축 풀기 실행 파일 찾기 실행하기 선택 사항 버그 제보 / 새 기능 요청하기 버그:\n조준점 안맞음(애니메이션 변경하여 수정할 예정) 스팀 네트워킹 ",
     "description": "",
     "tags": null,
     "title": "설치",
@@ -56,7 +56,7 @@ var relearn_search_index = [
     "uri": "/kr/basics/configuration/index.html"
   },
   {
-    "content": "04/05/2023: 문서 생성\n04/08/2023: 최소 사양 업데이트\n04/09/2023: Development build 업데이트 #1 - 네트워킹 문제 이론상 해결\n04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정, UI 및 기타 등등 수정, 성능 향상 문서 - 설명 추가\n05/06/2023: Development build 업데이트 #3 - client UI 버그 수정, 사망 시 ragdoll 추가, 다양한 주요 버그 수정, 애니메이션 변경 문서 - 멀티플레이 설명 추가\n07/29/2023: Development build 업데이트 #4 - 조준 애니메이션 버그 수정\n08/12/2023: Development build 업데이트 #5 - 피해량 버그 수정 + 최적화\n09/15/2023: Update #6 - 그래픽 업데이트 + 탄도학\n",
+    "content": "04/05/2023: 문서 생성\n04/08/2023: 최소 사양 업데이트\n04/09/2023: Development build 업데이트 #1 - 네트워킹 문제 이론상 해결\n04/22/2023: Development build 업데이트 #2 - 카메라 및 총 위치 조정, UI 및 기타 등등 수정, 성능 향상 문서 - 설명 추가\n05/06/2023: Development build 업데이트 #3 - client UI 버그 수정, 사망 시 ragdoll 추가, 다양한 주요 버그 수정, 애니메이션 변경 문서 - 멀티플레이 설명 추가\n07/29/2023: Development build 업데이트 #4 - 조준 애니메이션 버그 수정\n08/12/2023: Development build 업데이트 #5 - 피해량 버그 수정 + 최적화\n09/15/2023: 업데이트 #6 - 그래픽 업데이트 + 탄도학\n11/21/2023: 업데이트 #7 / 출시 pre alpha 업데이트 - 각종 버그 수정, 수동 장전, 달리기, 맵 수정 등\n01/26/2024: 업데이트 #8 / 설치 파일 포함\n",
     "description": "",
     "tags": null,
     "title": "패치 노트",

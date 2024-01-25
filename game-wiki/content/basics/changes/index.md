@@ -22,4 +22,6 @@ Docs - add multiplayer instructions
     
 09/15/2023: Update #6 on dev build - new visuals/graphics + ballistics    
     
-11/21/2023: Update #7 / First alpha release of shipping build - animation fixes, manual reloading, sprinting, map improvements, and more
+11/21/2023: Update #7 / First alpha release of shipping build - animation fixes, manual reloading, sprinting, map improvements, and more    
+    
+01/26/2024: Update #8 / Installer updated on file server for latest build

@@ -13,7 +13,11 @@ You can download the zip files on [https://dl.whatthesamuel.com](https://dl.what
     
 *I recommend you download the latest version by looking at the dates next to the file names*
     
-File names:
+File names:    
+    
+- Installer for latest version included    
+    
+For previous versions:
 - **Windows_x64.zip** : shipping build
 - ~~**Windows_debug_game_accportal.zip**~~
 - **Windows_development.zip** : development build, if available
